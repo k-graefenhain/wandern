@@ -174,6 +174,11 @@ function getWaypointIcon(wpt) {
     return icons[typeKey] || icons["default"];
 }
 
+function formatDistance(meters) {
+    const km = meters / 1000;              // in Kilometer umrechnen
+    return (Math.round(km * 10) / 10) + ' km';  // auf 1 Nachkommastelle runden und "km" anhängen
+}
+
 fetch('data/tracks.json')
     .then(res => res.json())
     .then(data => {
@@ -204,6 +209,10 @@ fetch('data/tracks.json')
                 const gpx = e.target;
                 gpx.bindPopup(`
                   <b>${track.title}</b><br/>
+                  Schwierigkeit: ${track.difficulty}<br/>
+                  Strecke: ${formatDistance(gpx._info.length)}<br/>
+                  Aufstieg: ${Math.round(gpx._info.elevation.gain)} m<br/>
+                  Abstieg: ${Math.round(gpx._info.elevation.loss)} m<br/>
                   <a href="${track.link}" target="_blank">Details</a><br/>
                   ${track.done ? '✅ Gewandert am ' + track.date : '🚶 Noch nicht gewandert'}
                 `);
