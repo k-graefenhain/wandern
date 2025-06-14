@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+  <metadata>
+    <name>Alpenkranz 4. Etappe: Musenalp - Bärchi - Eggbergen</name>
+    <author>
+      <name>Sanna Laurén - Verein Urner Wanderwege</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/21972114"/>
+    <time>2025-04-30T09:37:05.822Z</time>
+    <extensions>
+      <oa:oaCategory>longDistanceHikingTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <wpt lon="8.545789" lat="46.88207">
+    <ele>1490</ele>
+    <name>Luftseilbahn Chlital-Musenalp (1&apos;500 müM)</name>
+    <desc><![CDATA[Die Musenalp liegt im Isenthaler Kleintal auf 1500 m ü.M. am Fusse des Schlieren im Urirotstock-Gebiet, inmitten grossartiger Bergwelt. Vom Dorf Isenthal erreicht man das Berggasthaus in 2 Stunden angenehmer Wanderzeit. Von der Talstation der Luftseilbahn über gut markierten Wanderweg in 45 Minuten (Personentransport möglich). / Das heimelige Berggasthaus Musenalp bietet eine preisgünstige Unterkunft, gutbürgerliche Küche, Musik und ist sehr familienfreundlich.
+ / Fahrzeit: 5 Minuten / Kabinengrösse: 4 Personen / Kontakt / Bergrestaurant Musenalp / 6461 Isenthal / Tel. +41 (0)41 878 11 22 oder +41 (0)79 379 16 66]]></desc>
+    <src>outdooractive.21430.13014643</src>
+    <link href="http://www.bergbahnen.org/seilbahn/2662/"/>
+    <type>Bergbahn Bergstation</type>
+  </wpt>
+  <wpt lon="8.545105" lat="46.882121">
+    <ele>1499</ele>
+    <name>Alp Musenalp</name>
+    <desc>Während der Käse auf der vorderen Alp nur für den privaten Gebrauch hergestellt wird, produziert der</desc>
+    <src>outdooractive.21430.19194430</src>
+    <link href="http://www.musenalp-isenthal.ch"/>
+    <type>Alpe</type>
+  </wpt>
+  <wpt lon="8.545942" lat="46.881822">
+    <ele>1487</ele>
+    <name>Bergrestaurant Musenalp</name>
+    <desc><![CDATA[Von der Musenalp (1486 m.ü.M.) aus sehen wir bis zu den Mythen. Das Restaurant verfügt über eine Gaststube für ca. 40 Personen, welche bestens geeignet ist für Gruppen und Vereine. Bei schönem Wetter bietet die Terasse eine grandiose Aussicht. Alle warmen Gerichte wie Älplermagronen oder Rösti werden auf dem Holzofen zubereitet. Beim Bergasthaus befindet sich ein Slpbetrieb, auf dem Alpkäse hergestellt wird. Selbstverständlich kann der Käse im Berggasthof Musenalp gekauft werden.]]></desc>
+    <src>outdooractive.21430.16418109</src>
+    <link href="https://www.bergrestaurant-musenalp.com"/>
+    <type>Gasthof</type>
+  </wpt>
+  <wpt lon="8.554887" lat="46.885905">
+    <ele>1193</ele>
+    <name>Luftseilbahn Chlital-Musenalp (1&apos;200 müM)</name>
+    <desc><![CDATA[Die Musenalp liegt im Isenthaler Kleintal auf 1500 m ü.M. am Fusse des Schlieren im Urirotstock-Gebiet, inmitten grossartiger Bergwelt. Vom Dorf Isenthal erreicht man das Berggasthaus in 2 Stunden angenehmer Wanderzeit. Von der Talstation der Luftseilbahn über gut markierten Wanderweg in 45 Minuten (Personentransport möglich). / Das heimelige Berggasthaus Musenalp bietet eine preisgünstige Unterkunft, gutbürgerliche Küche, Musik und ist sehr familienfreundlich.
+ / Fahrzeit: 5 Minuten / Kabinengrösse: 4 Personen / Kontakt / Bergrestaurant Musenalp / 6461 Isenthal / Tel. +41 (0)41 878 11 22 oder +41 (0)79 379 16 66]]></desc>
+    <src>outdooractive.21430.13014611</src>
+    <link href="http://www.bergbahnen.org/seilbahn/2662/"/>
+    <type>Bergbahn Talstation</type>
+  </wpt>
+  <wpt lon="8.557033" lat="46.898179">
+    <ele>1030</ele>
+    <name>Luftseilbahn Chlital-Gietisflue (1&apos;020 müM)</name>
+    <desc><![CDATA[Die Gietisfluh liegt in einem Seitental (Chlital) von Isenthal. Die Luftseilbahn erschliesst einen typischen Berglandwirtschaftsbetrieb, der als Familienbetrieb bewirtschaftet wird. Die Talstation der Luftseilbahn Chlital-Gietisfluh ist mit dem Auto oder in 30 Gehminuten vom Dorf Isenthal aus erreichbar.   Kabinengrösse: 4 Personen / Gratisparkplätze vorhanden. / Ganzjährig in Betrieb. / Bedingt durch die landwirtschaftliche Bewirtschaftung ist die Bergstation nicht immer besetzt. / Telefonische Voranmeldung von Vorteil. / Telefonnummer: 041 878 10 17 oder 079 489 79 17]]></desc>
+    <src>outdooractive.21430.13014559</src>
+    <link href="https://www.bergbahnen.org/de/datenbank/seilbahn/2661/"/>
+    <type>Bergbahn Talstation</type>
+  </wpt>
+  <wpt lon="8.560694" lat="46.9105">
+    <ele>779</ele>
+    <name>Spielplatz Isenthal Dorfschulhaus</name>
+    <desc><![CDATA[[0 – 12 Jahre] / [ > 1 Std.] / Im Dorfkern von Isenthal befindet sich das Schulhaus mit seinem Pausenplatz. Wer gerne klettert, kommt hier voll auf seine Kosten. Es gibt eine Kletterwand, die einlädt, seinen Mut zu testen. Die zwei Spieltürme sind durch eine Röhre und ein Kletternetz miteinander verbunden. Ein Balancierbalken ergänzt das Angebot. Der Sandkasten wurde umfunktionert und ist anstatt mit Sand mit Holzklötzen gefüllt. Der Basketballkorb auf dem Pausenplatz ist vor allem bei den grösseren Kindern beliebt. Ein kurzweiliger Aufenthalt – beispielsweise wenn man aufs Postauto warten muss – ist garantiert. / Klettern und Kraxeln / Mit öffentlichen Verkehrsmitteln erreichbar / Unmittelbar neben ÖV-Station / Kinderwagentauglich / Hartplatz /]]></desc>
+    <src>outdooractive.21430.19522082</src>
+    <link href="http://www.spielplatz-uri.ch"/>
+    <type>Spielplatz</type>
+  </wpt>
+  <wpt lon="8.569639" lat="46.911972">
+    <ele>751</ele>
+    <name>Spielplatz Isenthal Gubeli</name>
+    <desc><![CDATA[[0 – 16 Jahre] / [1 – 2 Std.] / Rund 10 Minuten talauswärts von der Postautohaltestelle im Dorf Isenthal entfernt, befindet sich der Sport- und Kinderspielplatz Gubeli. Die Anlage ist grosszügig gestaltet und bietet mit Spielplatz, Sandkasten, Feuerstelle, Brunnen, Picknicktisch und Sportplatz eine breite Auswahl. Die Kombination von Spiel- und Sportplatz ist hier gut gelungen. Der Spielplatz bietet mit verschiedenen Schaukeln und einem Kletterturm viele Möglichkeiten sich zu bewegen. Die grösseren Kinder finden auf dem Sportplatz genügend Raum für Ball- und Mannschaftsspiele. Dank der zur Verfügung stehenden Tore ist auch Fussballspielen möglich. Und wer vom vielen Spielen hungrig ist, kann es sich rund um die Feuerstelle oder beim Unterstand gemütlich machen. Dank der idealen Lage kann das Vergnügen auf dem Spielplatz optimal mit einer Wanderung auf dem Bären- oder Handwerksweg verbunden werden. So kommen Gross und Klein auf ihre Kosten. / Kreatives Gestalten mit Sand / Klettern und Kraxeln / Mit öffentlichen Verkehrsmitteln erreichbar / 10 Minuten Laufzeit von nächster ÖV-Station / Kinderwagentauglich / Grasplatz/Rasen / Hartplatz / Trinkwasser / Feuerstelle / Gedeckter Unterstand /]]></desc>
+    <src>outdooractive.21430.19521934</src>
+    <link href="http://www.spielplatz-uri.ch"/>
+    <type>Spielplatz</type>
+  </wpt>
+  <wpt lon="8.603722" lat="46.888444">
+    <ele>436</ele>
+    <name>Bewegungsraum Seedorf Seerestaurant</name>
+    <desc><![CDATA[[0 – 16 Jahre] / [< 6 Std.] / Direkt beim Seerestaurant in Seedorf gibt es einen grosszügigen Spiel- und Bewegungsraum. Neben einer Spielwiese, wo diverse Ball-, Versteck- und Fangspiele möglich sind, hat es auch ein Beachvolleyballfeld sowie Feuerstellen und Sitzgelegenheiten. Das angrenzende Ufer des Urnersees lädt zum Baden ein und bietet den Kindern viel Platz zum Schaufeln und Spielen. Auch wer für eine Weile den Schatten sucht, wird unter den diversen kleineren Baumgruppen fündig. Direkt neben dem Seerestaurant liegt ein Spielplatz. Besonders das Schiff mit Rutschbahn und der Kletterparcours sind begehrte Plätze bei den Kindern. Aber auch das Schaukelangebot kann sich sehen lassen. Die WC-Anlage des Seerestaurants steht während den Öffnungszeiten auch den Gästen des Spielplatzes zur Verfügung. Über das gesamte Areal verteilt hat es noch zwei weitere Spielplätze mit Hängematte, Rutschbahn, Federwippen und Schaukeln. / Super Spielort in Uri / Kreatives Gestalten mit Sand / Wasser als Spielelement / Klettern und Kraxeln / Mit öffentlichen Verkehrsmitteln erreichbar / 5 Minuten Laufzeit von nächster ÖV-Station / Kinderwagentauglich / Grasplatz/Rasen / Trinkwasser / Feuerstelle / Schattenzone / Öffentliches WC / Behindertengerechte WC-Anlage /]]></desc>
+    <src>outdooractive.21430.19523079</src>
+    <link href="http://www.spielplatz-uri.ch"/>
+    <type>Spielplatz</type>
+  </wpt>
+  <wpt lon="8.617806" lat="46.898556">
+    <ele>434</ele>
+    <name>Bewegungsraum Flüelen Reussdelta</name>
+    <desc><![CDATA[[0 – 16 Jahre] / [2 – 4 Std.] / Im Urner Reussdelta wartet auf der Flüeler Seite ein wahres Bijou auf kleine und grosse Besucher. Der tolle Naturraum mit diversen Feuerstellen – inklusive Grillrost, Holzvorrat, Picknicktischen und Bänken – erstreckt sich entlang des Seeufers. Der Bewegungsraum ist vom Bahnhof Flüelen zu Fuss in rund 15 Minuten erreichbar. Als Besonderheit hat es eine Kneippanlage direkt im See. Das Seeufer empfiehlt sich auch als Badestrand: Dank geringer Seetiefe bietet der Bewegungsraum Reussdelta Bademöglichkeiten für kleine und grössere Kinder. Die Spielmöglichkeiten mit Sand, Kies, Steinen und angeschwemmtem Holz sind beinahe unerschöpflich. Attraktiv zum Spielen und Rumspritzen ist auch ein Brunnen, der als Trinkwasserquelle dient. / Super Spielort in Uri / Kreatives Gestalten mit Sand / Wasser als Spielelement / Mit öffentlichen Verkehrsmitteln erreichbar / 15 Minuten Laufzeit von nächster ÖV-Station / Kinderwagentauglich / Trinkwasser / Feuerstelle / Schattenzone /]]></desc>
+    <src>outdooractive.21430.19507823</src>
+    <link href="http://www.spielplatz-uri.ch"/>
+    <type>Spielplatz</type>
+  </wpt>
+  <wpt lon="8.644491" lat="46.901727">
+    <ele>1445</ele>
+    <name>Seilbahn Flüelen Eggberge (1447 müM)</name>
+    <desc><![CDATA[Als Sonnenterrasse bieten die Eggberge eine reiche Palette an Wander- und Rastmöglichkeiten. Egal ob gemütlicher Sonntagsspaziergang oder ausgedehnte Tageswanderung, hier kommen alle auf ihre Rechnung. Für Mountainbiker und Gleitschirmflieger sind die Eggberge idealer Tummelplatz. / Im Winter sind die Eggberge ein ideales Familiengebiet für Sportvergnügen jeglicher Art. Dank viel Sonne und gut präparierter Pisten ist es ein prächtiges Skiparadies. Wer sich dem Schneeschuhlaufen widmet, ist am richtigen Ort: Markierte Trails warten darauf, begangen zu werden. Auch für Tourenskifahrten und Winterwanderungen sind die Eggberge optimaler Ausgangspunkt. / Talstation: 437 m ü. M. / Bergstation: 1447 m ü. M. / Länge: 1878 m / Fahrzeit: 9 Minuten / Kabinengrösse: 15 Personen / Informationen für Rollstuhlfahrer / Einstieg: ebenerdig / Türbreite: 80 cm / Kabine: 230x130 cm / Infrastruktur: keine rollstuhlgerechte Toilette, kein Behindertenparkplatz, kein rollstuhlgerechter Spazierweg, Restaurant bedingt zugänglich.]]></desc>
+    <src>outdooractive.21430.12945567</src>
+    <link href="http://www.eggberge.ch/home.html"/>
+    <type>Bergbahn Bergstation</type>
+  </wpt>
+  <wpt lon="8.627454" lat="46.893428">
+    <ele>437</ele>
+    <name>Seilbahn Flüelen-Eggberge (437 müM)</name>
+    <desc><![CDATA[Als Sonnenterrasse bieten die Eggberge eine reiche Palette an Wander- und Rastmöglichkeiten. Egal ob gemütlicher Sonntagsspaziergang oder ausgedehnte Tageswanderung, hier kommen alle auf ihre Rechnung. Für Mountainbiker und Gleitschirmflieger sind die Eggberge idealer Tummelplatz. / Im Winter sind die Eggberge ein ideales Familiengebiet für Sportvergnügen jeglicher Art. Dank viel Sonne und gut präparierter Pisten ist es ein prächtiges Skiparadies. Wer sich dem Schneeschuhlaufen widmet, ist am richtigen Ort: Markierte Trails warten darauf, begangen zu werden. Auch für Tourenskifahrten und Winterwanderungen sind die Eggberge optimaler Ausgangspunkt. / Talstation: 437 m ü. M. / Bergstation: 1447 m ü. M. / Länge: 1878 m / Fahrzeit: 9 Minuten / Kabinengrösse: 15 Personen / Informationen für Rollstuhlfahrer / Einstieg: ebenerdig / Türbreite: 80 cm / Kabine: 230x130 cm / Infrastruktur: keine rollstuhlgerechte Toilette, kein Behindertenparkplatz, kein rollstuhlgerechter Spazierweg, Restaurant bedingt zugänglich.]]></desc>
+    <src>outdooractive.21430.12945351</src>
+    <link href="http://www.eggberge.ch/home.html"/>
+    <type>Bergbahn Talstation</type>
+  </wpt>
+  <wpt lon="8.585142" lat="46.918812">
+    <ele>889</ele>
+    <name>Luftseilbahn Vodere Bärchi-Obere Bärchi (890 müM)</name>
+    <desc><![CDATA[Vom Dorf Isenthal erreichen Sie die Talstation Vordere Bärchi auf einer Naturstrasse in 35 Minuten. Mit einer romantischen Bahn gelangen Sie auf ein Hochplateau mit einem typischen Berglandwirtschaftsbetrieb. Nebst einem fantastischen Ausblick über den Vierwaldstättersee und den Urner Talboden haben Sie die Gelegenheit, einen typischen Berglandwirtschaftsbetrieb kennen zu lernen.   Kabinengrösse: 3 Personen / Betriebszeit / ganzjährig / Bedingt durch die landwirtschaftliche Bewirtschaftung ist die Bergstation nicht immer besetzt. / Telefonische Voranmeldung von Vorteil.]]></desc>
+    <src>outdooractive.21430.13014175</src>
+    <link href="http://www.bergbahnen.org/seilbahn/2660/de/daten.php"/>
+    <type>Bergbahn Talstation</type>
+  </wpt>
+  <wpt lon="8.594722" lat="46.917">
+    <ele>435</ele>
+    <name>Liegewiese Isleten</name>
+    <desc><![CDATA[[0 – 16 Jahre] / [2 – 4 Std.] / Einmal so richtig die Seele baumeln lassen, ein gutes Buch lesen, die wärmende Sonne geniessen und zwischendurch eine erfrischende Runde im Urnersee schwimmen. All dies ist möglich am Badestrand an der Isleten. Dieser liegt rund 5 Gehminuten von der Schiffstation Isleten-Isenthal entfernt. Wer mit dem Bus anreisen möchte, steigt bei Isleten Seegarten aus. Und wer Lust hat, sein Badetuch auf der Wiese auszubreiten, kann dies gleich neben dem Parkplatz beim Restaurant tun. Im abgegrenzten Schwimmbereich im See vor der Wiese können die Kinder unbeschwert rumplanschen – die Wassertiefe ist nur langsam ansteigend. Ein kompletter Kiesstrand findet sich rund 250 Meter nördlich bei der Einmündung des Isentalerbaches in den Urnersee. Beim Isitalerbach hat es einen Pfahl im See, der zum Sprung ins kühle Nass erklettert werden kann. An beiden Stränden gibt es diverse Schattenplätze und eine tolle Aussicht auf das Bergpanorama. Eine WC-Anlage befindet sich im Restaurant. Diese kann gegen eine geringe Gebühr auch von Badegästen benutzt werden. / Wasser als Spielelement / Mit öffentlichen Verkehrsmitteln erreichbar / 5 Minuten Laufzeit von nächster ÖV-Station / Kinderwagentauglich / Grasplatz/Rasen / Trinkwasser / Schattenzone / Öffentliches WC /]]></desc>
+    <src>outdooractive.21430.19506238</src>
+    <link href="http://www.spielplatz-uri.ch"/>
+    <type>Spielplatz</type>
+  </wpt>
+  <wpt lon="8.58" lat="46.934667">
+    <ele>437</ele>
+    <name>Badestrand Bauen</name>
+    <desc><![CDATA[[0 – 16 Jahre] / [2 – 4 Std.] / In der mediterranen Gemeinde Bauen gibt es nicht nur ein mildes Klima und Palmen, sondern auch einen gepflegten, schön gelegenen Badeplatz. Er liegt rund 5 Minuten von der Schiffstation Bauen entfernt. Auf dem Rasen können sich Erwachsene und Kinder beim Spielen oder Lesen prächtig erholen. Die vielen Bäume sorgen für genügend Schatten. Wem es trotzdem zu heiss wird, der gönnt sich eine Abkühlung im Urnersee. Der Strandabschnitt mit Kieselsteinen eignet sich aber auch zum Spielen. Trotz eines zur Verfügung stehenden Rettungsringes sollten kleine Kinder aufgrund des rasch tiefer werdenden Wassers nicht unbeaufsichtigt gelassen werden. Wer nach dem Baden Hunger hat, kann die Feuerstelle mit Holzvorrat benutzen. Umkleide- und Duschkabinen sind vor Ort vorhanden. Das WC befindet sich gleich oberhalb der Strasse. Die Parkplätze ganz in der Nähe vervollständigen das Infrastrukturangebot. / Wasser als Spielelement / Mit öffentlichen Verkehrsmitteln erreichbar / 5 Minuten Laufzeit von nächster ÖV-Station / Kinderwagentauglich / Grasplatz/Rasen / Trinkwasser / Feuerstelle / Gedeckter Unterstand / Schattenzone / Öffentliches WC / Behindertengerechte WC-Anlage /]]></desc>
+    <src>outdooractive.21430.19506161</src>
+    <link href="http://www.spielplatz-uri.ch"/>
+    <type>Spielplatz</type>
+  </wpt>
+  <trk>
+    <name>Alpenkranz 4. Etappe: Musenalp - Bärchi - Eggbergen</name>
+    <desc>Die Verbindungsroute von der Musenalp hinunter nach Bauen und dann weiter auf die Eggberge bietet landschaftlich vielfältige Eindrücke.</desc>
+    <type>longDistanceHikingTrail</type>
+    <trkseg>
+      <trkpt lat="46.881874" lon="8.545929">
+        <ele>1487.1</ele>
+      </trkpt>
+      <trkpt lat="46.881825" lon="8.545949">
+        <ele>1486.8</ele>
+      </trkpt>
+      <trkpt lat="46.88181" lon="8.545973">
+        <ele>1486.5</ele>
+      </trkpt>
+      <trkpt lat="46.881824" lon="8.5462">
+        <ele>1483.3</ele>
+      </trkpt>
+      <trkpt lat="46.881713" lon="8.546179">
+        <ele>1484.9</ele>
+      </trkpt>
+      <trkpt lat="46.881637" lon="8.546384">
+        <ele>1483.2</ele>
+      </trkpt>
+      <trkpt lat="46.881488" lon="8.546514">
+        <ele>1478.9</ele>
+      </trkpt>
+      <trkpt lat="46.881502" lon="8.546654">
+        <ele>1475.7</ele>
+      </trkpt>
+      <trkpt lat="46.881758" lon="8.546672">
+        <ele>1470.6</ele>
+      </trkpt>
+      <trkpt lat="46.881888" lon="8.546621">
+        <ele>1468.5</ele>
+      </trkpt>
+      <trkpt lat="46.882111" lon="8.546849">
+        <ele>1459.1</ele>
+      </trkpt>
+      <trkpt lat="46.88225" lon="8.547215">
+        <ele>1451.8</ele>
+      </trkpt>
+      <trkpt lat="46.882143" lon="8.547382">
+        <ele>1444.6</ele>
+      </trkpt>
+      <trkpt lat="46.882236" lon="8.54755">
+        <ele>1440.7</ele>
+      </trkpt>
+      <trkpt lat="46.882111" lon="8.547684">
+        <ele>1434.7</ele>
+      </trkpt>
+      <trkpt lat="46.882124" lon="8.547902">
+        <ele>1424.4</ele>
+      </trkpt>
+      <trkpt lat="46.882343" lon="8.547907">
+        <ele>1420.8</ele>
+      </trkpt>
+      <trkpt lat="46.882473" lon="8.548139">
+        <ele>1410.6</ele>
+      </trkpt>
+      <trkpt lat="46.882654" lon="8.548139">
+        <ele>1408.7</ele>
+      </trkpt>
+      <trkpt lat="46.882888" lon="8.548434">
+        <ele>1399.9</ele>
+      </trkpt>
+      <trkpt lat="46.883123" lon="8.548729">
+        <ele>1389.2</ele>
+      </trkpt>
+      <trkpt lat="46.883202" lon="8.549226">
+        <ele>1379.0</ele>
+      </trkpt>
+      <trkpt lat="46.883378" lon="8.549495">
+        <ele>1371.0</ele>
+      </trkpt>
+      <trkpt lat="46.883359" lon="8.549829">
+        <ele>1362.8</ele>
+      </trkpt>
+      <trkpt lat="46.883489" lon="8.55002">
+        <ele>1354.1</ele>
+      </trkpt>
+      <trkpt lat="46.88339" lon="8.55047">
+        <ele>1344.7</ele>
+      </trkpt>
+      <trkpt lat="46.88329" lon="8.55092">
+        <ele>1334.5</ele>
+      </trkpt>
+      <trkpt lat="46.88303" lon="8.551319">
+        <ele>1315.0</ele>
+      </trkpt>
+      <trkpt lat="46.883267" lon="8.5517">
+        <ele>1289.8</ele>
+      </trkpt>
+      <trkpt lat="46.883443" lon="8.551635">
+        <ele>1293.0</ele>
+      </trkpt>
+      <trkpt lat="46.883503" lon="8.552127">
+        <ele>1266.8</ele>
+      </trkpt>
+      <trkpt lat="46.883815" lon="8.551914">
+        <ele>1292.4</ele>
+      </trkpt>
+      <trkpt lat="46.884126" lon="8.5517">
+        <ele>1301.4</ele>
+      </trkpt>
+      <trkpt lat="46.884181" lon="8.552313">
+        <ele>1269.1</ele>
+      </trkpt>
+      <trkpt lat="46.88442" lon="8.552424">
+        <ele>1260.5</ele>
+      </trkpt>
+      <trkpt lat="46.884659" lon="8.552536">
+        <ele>1252.0</ele>
+      </trkpt>
+      <trkpt lat="46.884815" lon="8.552917">
+        <ele>1232.0</ele>
+      </trkpt>
+      <trkpt lat="46.88497" lon="8.553297">
+        <ele>1212.4</ele>
+      </trkpt>
+      <trkpt lat="46.885251" lon="8.553499">
+        <ele>1205.7</ele>
+      </trkpt>
+      <trkpt lat="46.885532" lon="8.553701">
+        <ele>1202.4</ele>
+      </trkpt>
+      <trkpt lat="46.885711" lon="8.554082">
+        <ele>1201.8</ele>
+      </trkpt>
+      <trkpt lat="46.885715" lon="8.554091">
+        <ele>1201.7</ele>
+      </trkpt>
+      <trkpt lat="46.885711" lon="8.554082">
+        <ele>1201.8</ele>
+      </trkpt>
+      <trkpt lat="46.88589" lon="8.554463">
+        <ele>1199.1</ele>
+      </trkpt>
+      <trkpt lat="46.885953" lon="8.554832">
+        <ele>1193.8</ele>
+      </trkpt>
+      <trkpt lat="46.886323" lon="8.554988">
+        <ele>1190.9</ele>
+      </trkpt>
+      <trkpt lat="46.886583" lon="8.555041">
+        <ele>1189.1</ele>
+      </trkpt>
+      <trkpt lat="46.886926" lon="8.555148">
+        <ele>1186.2</ele>
+      </trkpt>
+      <trkpt lat="46.887277" lon="8.555342">
+        <ele>1179.2</ele>
+      </trkpt>
+      <trkpt lat="46.887639" lon="8.55548">
+        <ele>1173.7</ele>
+      </trkpt>
+      <trkpt lat="46.887776" lon="8.555482">
+        <ele>1172.5</ele>
+      </trkpt>
+      <trkpt lat="46.887952" lon="8.555401">
+        <ele>1169.3</ele>
+      </trkpt>
+      <trkpt lat="46.888059" lon="8.555326">
+        <ele>1168.2</ele>
+      </trkpt>
+      <trkpt lat="46.888084" lon="8.555308">
+        <ele>1166.6</ele>
+      </trkpt>
+      <trkpt lat="46.888146" lon="8.555268">
+        <ele>1167.0</ele>
+      </trkpt>
+      <trkpt lat="46.888432" lon="8.555119">
+        <ele>1163.5</ele>
+      </trkpt>
+      <trkpt lat="46.888805" lon="8.555228">
+        <ele>1157.6</ele>
+      </trkpt>
+      <trkpt lat="46.889167" lon="8.55523">
+        <ele>1150.9</ele>
+      </trkpt>
+      <trkpt lat="46.889515" lon="8.555194">
+        <ele>1146.1</ele>
+      </trkpt>
+      <trkpt lat="46.88968" lon="8.555241">
+        <ele>1143.3</ele>
+      </trkpt>
+      <trkpt lat="46.890047" lon="8.555435">
+        <ele>1136.6</ele>
+      </trkpt>
+      <trkpt lat="46.890413" lon="8.555629">
+        <ele>1130.2</ele>
+      </trkpt>
+      <trkpt lat="46.89078" lon="8.555823">
+        <ele>1124.0</ele>
+      </trkpt>
+      <trkpt lat="46.891138" lon="8.556012">
+        <ele>1118.2</ele>
+      </trkpt>
+      <trkpt lat="46.891215" lon="8.556055">
+        <ele>1117.1</ele>
+      </trkpt>
+      <trkpt lat="46.8916" lon="8.556296">
+        <ele>1111.0</ele>
+      </trkpt>
+      <trkpt lat="46.891986" lon="8.556538">
+        <ele>1106.2</ele>
+      </trkpt>
+      <trkpt lat="46.892357" lon="8.556836">
+        <ele>1102.1</ele>
+      </trkpt>
+      <trkpt lat="46.892727" lon="8.557134">
+        <ele>1096.9</ele>
+      </trkpt>
+      <trkpt lat="46.893044" lon="8.557271">
+        <ele>1093.0</ele>
+      </trkpt>
+      <trkpt lat="46.893368" lon="8.557407">
+        <ele>1089.4</ele>
+      </trkpt>
+      <trkpt lat="46.893691" lon="8.557543">
+        <ele>1085.2</ele>
+      </trkpt>
+      <trkpt lat="46.894012" lon="8.55765">
+        <ele>1082.0</ele>
+      </trkpt>
+      <trkpt lat="46.894333" lon="8.557756">
+        <ele>1079.5</ele>
+      </trkpt>
+      <trkpt lat="46.89469" lon="8.55778">
+        <ele>1077.5</ele>
+      </trkpt>
+      <trkpt lat="46.8949" lon="8.557794">
+        <ele>1076.6</ele>
+      </trkpt>
+      <trkpt lat="46.895109" lon="8.557786">
+        <ele>1074.7</ele>
+      </trkpt>
+      <trkpt lat="46.89529" lon="8.557732">
+        <ele>1072.9</ele>
+      </trkpt>
+      <trkpt lat="46.89561" lon="8.557543">
+        <ele>1067.7</ele>
+      </trkpt>
+      <trkpt lat="46.895982" lon="8.557307">
+        <ele>1063.7</ele>
+      </trkpt>
+      <trkpt lat="46.896129" lon="8.557238">
+        <ele>1061.9</ele>
+      </trkpt>
+      <trkpt lat="46.896195" lon="8.557207">
+        <ele>1062.4</ele>
+      </trkpt>
+      <trkpt lat="46.896506" lon="8.557061">
+        <ele>1057.7</ele>
+      </trkpt>
+      <trkpt lat="46.896863" lon="8.556932">
+        <ele>1051.7</ele>
+      </trkpt>
+      <trkpt lat="46.897186" lon="8.556849">
+        <ele>1046.2</ele>
+      </trkpt>
+      <trkpt lat="46.897508" lon="8.556766">
+        <ele>1041.4</ele>
+      </trkpt>
+      <trkpt lat="46.897816" lon="8.556714">
+        <ele>1037.3</ele>
+      </trkpt>
+      <trkpt lat="46.897941" lon="8.556714">
+        <ele>1035.9</ele>
+      </trkpt>
+      <trkpt lat="46.898024" lon="8.556736">
+        <ele>1033.9</ele>
+      </trkpt>
+      <trkpt lat="46.898166" lon="8.556775">
+        <ele>1031.6</ele>
+      </trkpt>
+      <trkpt lat="46.898523" lon="8.556882">
+        <ele>1025.4</ele>
+      </trkpt>
+      <trkpt lat="46.89888" lon="8.556989">
+        <ele>1020.3</ele>
+      </trkpt>
+      <trkpt lat="46.899237" lon="8.557096">
+        <ele>1014.3</ele>
+      </trkpt>
+      <trkpt lat="46.899594" lon="8.557203">
+        <ele>1009.9</ele>
+      </trkpt>
+      <trkpt lat="46.899951" lon="8.557323">
+        <ele>1003.6</ele>
+      </trkpt>
+      <trkpt lat="46.90002" lon="8.557346">
+        <ele>1003.2</ele>
+      </trkpt>
+      <trkpt lat="46.900138" lon="8.557386">
+        <ele>1001.3</ele>
+      </trkpt>
+      <trkpt lat="46.900373" lon="8.557516">
+        <ele>997.5</ele>
+      </trkpt>
+      <trkpt lat="46.900706" lon="8.557817">
+        <ele>992.0</ele>
+      </trkpt>
+      <trkpt lat="46.900943" lon="8.557989">
+        <ele>988.5</ele>
+      </trkpt>
+      <trkpt lat="46.90118" lon="8.558162">
+        <ele>987.6</ele>
+      </trkpt>
+      <trkpt lat="46.901376" lon="8.558444">
+        <ele>983.8</ele>
+      </trkpt>
+      <trkpt lat="46.901549" lon="8.558817">
+        <ele>980.3</ele>
+      </trkpt>
+      <trkpt lat="46.901782" lon="8.55902">
+        <ele>981.2</ele>
+      </trkpt>
+      <trkpt lat="46.901974" lon="8.559082">
+        <ele>958.1</ele>
+      </trkpt>
+      <trkpt lat="46.902128" lon="8.559219">
+        <ele>959.0</ele>
+      </trkpt>
+      <trkpt lat="46.902182" lon="8.559241">
+        <ele>962.4</ele>
+      </trkpt>
+      <trkpt lat="46.902403" lon="8.559209">
+        <ele>944.2</ele>
+      </trkpt>
+      <trkpt lat="46.9025" lon="8.559223">
+        <ele>948.9</ele>
+      </trkpt>
+      <trkpt lat="46.902778" lon="8.559378">
+        <ele>951.1</ele>
+      </trkpt>
+      <trkpt lat="46.903056" lon="8.559532">
+        <ele>946.6</ele>
+      </trkpt>
+      <trkpt lat="46.903428" lon="8.559701">
+        <ele>936.8</ele>
+      </trkpt>
+      <trkpt lat="46.9038" lon="8.55987">
+        <ele>932.2</ele>
+      </trkpt>
+      <trkpt lat="46.904071" lon="8.559862">
+        <ele>927.7</ele>
+      </trkpt>
+      <trkpt lat="46.904342" lon="8.559853">
+        <ele>918.9</ele>
+      </trkpt>
+      <trkpt lat="46.904758" lon="8.560094">
+        <ele>916.9</ele>
+      </trkpt>
+      <trkpt lat="46.905174" lon="8.560334">
+        <ele>914.2</ele>
+      </trkpt>
+      <trkpt lat="46.905372" lon="8.560518">
+        <ele>911.7</ele>
+      </trkpt>
+      <trkpt lat="46.90557" lon="8.560703">
+        <ele>907.6</ele>
+      </trkpt>
+      <trkpt lat="46.905811" lon="8.561013">
+        <ele>902.9</ele>
+      </trkpt>
+      <trkpt lat="46.906053" lon="8.561324">
+        <ele>897.0</ele>
+      </trkpt>
+      <trkpt lat="46.905958" lon="8.561092">
+        <ele>896.7</ele>
+      </trkpt>
+      <trkpt lat="46.905539" lon="8.559852">
+        <ele>867.06159</ele>
+      </trkpt>
+      <trkpt lat="46.906129" lon="8.559825">
+        <ele>844.4</ele>
+      </trkpt>
+      <trkpt lat="46.906081" lon="8.55971">
+        <ele>842.5</ele>
+      </trkpt>
+      <trkpt lat="46.906078" lon="8.559603">
+        <ele>846.4</ele>
+      </trkpt>
+      <trkpt lat="46.906136" lon="8.559565">
+        <ele>844.1</ele>
+      </trkpt>
+      <trkpt lat="46.90633" lon="8.559649">
+        <ele>838.9</ele>
+      </trkpt>
+      <trkpt lat="46.906512" lon="8.559863">
+        <ele>838.2</ele>
+      </trkpt>
+      <trkpt lat="46.906687" lon="8.560196">
+        <ele>833.0</ele>
+      </trkpt>
+      <trkpt lat="46.906862" lon="8.560529">
+        <ele>828.1</ele>
+      </trkpt>
+      <trkpt lat="46.907165" lon="8.560863">
+        <ele>822.6</ele>
+      </trkpt>
+      <trkpt lat="46.907464" lon="8.560967">
+        <ele>815.7</ele>
+      </trkpt>
+      <trkpt lat="46.907678" lon="8.561041">
+        <ele>814.6</ele>
+      </trkpt>
+      <trkpt lat="46.907863" lon="8.561106">
+        <ele>811.7</ele>
+      </trkpt>
+      <trkpt lat="46.907989" lon="8.561233">
+        <ele>811.5</ele>
+      </trkpt>
+      <trkpt lat="46.908348" lon="8.561422">
+        <ele>798.7</ele>
+      </trkpt>
+      <trkpt lat="46.908706" lon="8.561611">
+        <ele>795.6</ele>
+      </trkpt>
+      <trkpt lat="46.908894" lon="8.5617">
+        <ele>790.5</ele>
+      </trkpt>
+      <trkpt lat="46.909087" lon="8.561903">
+        <ele>786.9</ele>
+      </trkpt>
+      <trkpt lat="46.909343" lon="8.562234">
+        <ele>779.6</ele>
+      </trkpt>
+      <trkpt lat="46.909473" lon="8.562386">
+        <ele>776.0</ele>
+      </trkpt>
+      <trkpt lat="46.90961" lon="8.562478">
+        <ele>772.0</ele>
+      </trkpt>
+      <trkpt lat="46.909777" lon="8.562509">
+        <ele>770.5</ele>
+      </trkpt>
+      <trkpt lat="46.909793" lon="8.562517">
+        <ele>770.2</ele>
+      </trkpt>
+      <trkpt lat="46.909865" lon="8.562554">
+        <ele>769.1</ele>
+      </trkpt>
+      <trkpt lat="46.909924" lon="8.562631">
+        <ele>768.9</ele>
+      </trkpt>
+      <trkpt lat="46.909967" lon="8.562711">
+        <ele>768.8</ele>
+      </trkpt>
+      <trkpt lat="46.909884" lon="8.562761">
+        <ele>769.0</ele>
+      </trkpt>
+      <trkpt lat="46.909855" lon="8.562852">
+        <ele>769.2</ele>
+      </trkpt>
+      <trkpt lat="46.909826" lon="8.563012">
+        <ele>768.6</ele>
+      </trkpt>
+      <trkpt lat="46.90978" lon="8.563112">
+        <ele>769.8</ele>
+      </trkpt>
+      <trkpt lat="46.909668" lon="8.563254">
+        <ele>773.3</ele>
+      </trkpt>
+      <trkpt lat="46.909622" lon="8.563478">
+        <ele>775.1</ele>
+      </trkpt>
+      <trkpt lat="46.909716" lon="8.564035">
+        <ele>775.5</ele>
+      </trkpt>
+      <trkpt lat="46.909811" lon="8.564529">
+        <ele>775.7</ele>
+      </trkpt>
+      <trkpt lat="46.909826" lon="8.564712">
+        <ele>777.4</ele>
+      </trkpt>
+      <trkpt lat="46.909805" lon="8.564795">
+        <ele>778.7</ele>
+      </trkpt>
+      <trkpt lat="46.90983" lon="8.565114">
+        <ele>779.9</ele>
+      </trkpt>
+      <trkpt lat="46.909744" lon="8.565344">
+        <ele>782.7</ele>
+      </trkpt>
+      <trkpt lat="46.909783" lon="8.565622">
+        <ele>780.5</ele>
+      </trkpt>
+      <trkpt lat="46.909839" lon="8.565732">
+        <ele>778.0</ele>
+      </trkpt>
+      <trkpt lat="46.910235" lon="8.566001">
+        <ele>766.2</ele>
+      </trkpt>
+      <trkpt lat="46.910473" lon="8.566163">
+        <ele>761.1</ele>
+      </trkpt>
+      <trkpt lat="46.910642" lon="8.566247">
+        <ele>757.9</ele>
+      </trkpt>
+      <trkpt lat="46.910717" lon="8.566376">
+        <ele>755.5</ele>
+      </trkpt>
+      <trkpt lat="46.910757" lon="8.566588">
+        <ele>753.3</ele>
+      </trkpt>
+      <trkpt lat="46.910816" lon="8.566577">
+        <ele>753.4</ele>
+      </trkpt>
+      <trkpt lat="46.911001" lon="8.566544">
+        <ele>754.2</ele>
+      </trkpt>
+      <trkpt lat="46.911074" lon="8.566531">
+        <ele>754.3</ele>
+      </trkpt>
+      <trkpt lat="46.911125" lon="8.566939">
+        <ele>752.4</ele>
+      </trkpt>
+      <trkpt lat="46.911176" lon="8.567348">
+        <ele>750.5</ele>
+      </trkpt>
+      <trkpt lat="46.911232" lon="8.567683">
+        <ele>749.3</ele>
+      </trkpt>
+      <trkpt lat="46.911288" lon="8.568017">
+        <ele>748.6</ele>
+      </trkpt>
+      <trkpt lat="46.911517" lon="8.568451">
+        <ele>747.2</ele>
+      </trkpt>
+      <trkpt lat="46.911561" lon="8.568645">
+        <ele>745.8</ele>
+      </trkpt>
+      <trkpt lat="46.911663" lon="8.568794">
+        <ele>746.0</ele>
+      </trkpt>
+      <trkpt lat="46.911761" lon="8.569316">
+        <ele>750.1</ele>
+      </trkpt>
+      <trkpt lat="46.911759" lon="8.569399">
+        <ele>748.6</ele>
+      </trkpt>
+      <trkpt lat="46.912018" lon="8.569379">
+        <ele>754.70129</ele>
+      </trkpt>
+      <trkpt lat="46.912487" lon="8.571761">
+        <ele>762.04956</ele>
+      </trkpt>
+      <trkpt lat="46.91322" lon="8.575644">
+        <ele>770.68663</ele>
+      </trkpt>
+      <trkpt lat="46.914759" lon="8.577888">
+        <ele>865.4</ele>
+      </trkpt>
+      <trkpt lat="46.914889" lon="8.578316">
+        <ele>868.7</ele>
+      </trkpt>
+      <trkpt lat="46.91508" lon="8.578888">
+        <ele>874.0</ele>
+      </trkpt>
+      <trkpt lat="46.915272" lon="8.579461">
+        <ele>877.7</ele>
+      </trkpt>
+      <trkpt lat="46.915479" lon="8.579965">
+        <ele>882.7</ele>
+      </trkpt>
+      <trkpt lat="46.915714" lon="8.580295">
+        <ele>889.6</ele>
+      </trkpt>
+      <trkpt lat="46.915971" lon="8.580644">
+        <ele>897.5</ele>
+      </trkpt>
+      <trkpt lat="46.916228" lon="8.580992">
+        <ele>904.8</ele>
+      </trkpt>
+      <trkpt lat="46.916382" lon="8.581187">
+        <ele>908.1</ele>
+      </trkpt>
+      <trkpt lat="46.916396" lon="8.5812">
+        <ele>908.2</ele>
+      </trkpt>
+      <trkpt lat="46.917866" lon="8.583541">
+        <ele>897.46688</ele>
+      </trkpt>
+      <trkpt lat="46.91829" lon="8.584618">
+        <ele>889.6</ele>
+      </trkpt>
+      <trkpt lat="46.918381" lon="8.584683">
+        <ele>890.2</ele>
+      </trkpt>
+      <trkpt lat="46.918501" lon="8.584807">
+        <ele>890.3</ele>
+      </trkpt>
+      <trkpt lat="46.918624" lon="8.585032">
+        <ele>889.9</ele>
+      </trkpt>
+      <trkpt lat="46.918832" lon="8.585147">
+        <ele>889.3</ele>
+      </trkpt>
+      <trkpt lat="46.919005" lon="8.585196">
+        <ele>885.8</ele>
+      </trkpt>
+      <trkpt lat="46.919333" lon="8.585062">
+        <ele>877.5</ele>
+      </trkpt>
+      <trkpt lat="46.919661" lon="8.584929">
+        <ele>869.7</ele>
+      </trkpt>
+      <trkpt lat="46.919869" lon="8.584975">
+        <ele>867.5</ele>
+      </trkpt>
+      <trkpt lat="46.919917" lon="8.585076">
+        <ele>862.5</ele>
+      </trkpt>
+      <trkpt lat="46.919784" lon="8.58523">
+        <ele>853.5</ele>
+      </trkpt>
+      <trkpt lat="46.919794" lon="8.585487">
+        <ele>840.3</ele>
+      </trkpt>
+      <trkpt lat="46.919964" lon="8.5859">
+        <ele>815.8</ele>
+      </trkpt>
+      <trkpt lat="46.920202" lon="8.586077">
+        <ele>799.6</ele>
+      </trkpt>
+      <trkpt lat="46.920411" lon="8.586148">
+        <ele>791.7</ele>
+      </trkpt>
+      <trkpt lat="46.920673" lon="8.586229">
+        <ele>783.2</ele>
+      </trkpt>
+      <trkpt lat="46.920858" lon="8.586336">
+        <ele>776.3</ele>
+      </trkpt>
+      <trkpt lat="46.920995" lon="8.586395">
+        <ele>771.7</ele>
+      </trkpt>
+      <trkpt lat="46.921166" lon="8.586368">
+        <ele>766.3</ele>
+      </trkpt>
+      <trkpt lat="46.921241" lon="8.586355">
+        <ele>763.9</ele>
+      </trkpt>
+      <trkpt lat="46.921495" lon="8.586268">
+        <ele>755.0</ele>
+      </trkpt>
+      <trkpt lat="46.92175" lon="8.586181">
+        <ele>749.1</ele>
+      </trkpt>
+      <trkpt lat="46.922002" lon="8.586104">
+        <ele>745.0</ele>
+      </trkpt>
+      <trkpt lat="46.922263" lon="8.586092">
+        <ele>740.6</ele>
+      </trkpt>
+      <trkpt lat="46.92243" lon="8.585807">
+        <ele>745.8</ele>
+      </trkpt>
+      <trkpt lat="46.922649" lon="8.585545">
+        <ele>745.5</ele>
+      </trkpt>
+      <trkpt lat="46.922916" lon="8.585694">
+        <ele>743.6</ele>
+      </trkpt>
+      <trkpt lat="46.922966" lon="8.585915">
+        <ele>733.8</ele>
+      </trkpt>
+      <trkpt lat="46.923267" lon="8.585798">
+        <ele>722.7</ele>
+      </trkpt>
+      <trkpt lat="46.923406" lon="8.585744">
+        <ele>721.9</ele>
+      </trkpt>
+      <trkpt lat="46.923569" lon="8.58568">
+        <ele>721.1</ele>
+      </trkpt>
+      <trkpt lat="46.923577" lon="8.585833">
+        <ele>711.0</ele>
+      </trkpt>
+      <trkpt lat="46.923752" lon="8.585726">
+        <ele>701.8</ele>
+      </trkpt>
+      <trkpt lat="46.923847" lon="8.585573">
+        <ele>702.5</ele>
+      </trkpt>
+      <trkpt lat="46.923829" lon="8.585444">
+        <ele>707.2</ele>
+      </trkpt>
+      <trkpt lat="46.924071" lon="8.585311">
+        <ele>693.8</ele>
+      </trkpt>
+      <trkpt lat="46.924038" lon="8.585497">
+        <ele>692.6</ele>
+      </trkpt>
+      <trkpt lat="46.924155" lon="8.585316">
+        <ele>684.3</ele>
+      </trkpt>
+      <trkpt lat="46.92416" lon="8.585033">
+        <ele>681.6</ele>
+      </trkpt>
+      <trkpt lat="46.923979" lon="8.584779">
+        <ele>694.0</ele>
+      </trkpt>
+      <trkpt lat="46.924335" lon="8.584547">
+        <ele>668.7</ele>
+      </trkpt>
+      <trkpt lat="46.924311" lon="8.584363">
+        <ele>674.5</ele>
+      </trkpt>
+      <trkpt lat="46.924536" lon="8.584136">
+        <ele>665.7</ele>
+      </trkpt>
+      <trkpt lat="46.924434" lon="8.584037">
+        <ele>679.6</ele>
+      </trkpt>
+      <trkpt lat="46.924541" lon="8.58382">
+        <ele>670.1</ele>
+      </trkpt>
+      <trkpt lat="46.924527" lon="8.583559">
+        <ele>678.3</ele>
+      </trkpt>
+      <trkpt lat="46.924713" lon="8.582975">
+        <ele>686.0</ele>
+      </trkpt>
+      <trkpt lat="46.924836" lon="8.582842">
+        <ele>679.2</ele>
+      </trkpt>
+      <trkpt lat="46.924881" lon="8.582698">
+        <ele>682.1</ele>
+      </trkpt>
+      <trkpt lat="46.924963" lon="8.582677">
+        <ele>679.2</ele>
+      </trkpt>
+      <trkpt lat="46.92487" lon="8.582191">
+        <ele>679.9</ele>
+      </trkpt>
+      <trkpt lat="46.924971" lon="8.581896">
+        <ele>672.3</ele>
+      </trkpt>
+      <trkpt lat="46.924897" lon="8.58177">
+        <ele>680.2</ele>
+      </trkpt>
+      <trkpt lat="46.925181" lon="8.581558">
+        <ele>653.9</ele>
+      </trkpt>
+      <trkpt lat="46.925258" lon="8.581113">
+        <ele>662.2</ele>
+      </trkpt>
+      <trkpt lat="46.925468" lon="8.581133">
+        <ele>646.1</ele>
+      </trkpt>
+      <trkpt lat="46.925634" lon="8.580786">
+        <ele>652.2</ele>
+      </trkpt>
+      <trkpt lat="46.9257" lon="8.580443">
+        <ele>648.9</ele>
+      </trkpt>
+      <trkpt lat="46.925859" lon="8.580164">
+        <ele>642.6</ele>
+      </trkpt>
+      <trkpt lat="46.925939" lon="8.579879">
+        <ele>638.3</ele>
+      </trkpt>
+      <trkpt lat="46.925917" lon="8.579625">
+        <ele>637.9</ele>
+      </trkpt>
+      <trkpt lat="46.92606" lon="8.579431">
+        <ele>635.1</ele>
+      </trkpt>
+      <trkpt lat="46.926239" lon="8.579633">
+        <ele>629.0</ele>
+      </trkpt>
+      <trkpt lat="46.926438" lon="8.579674">
+        <ele>626.0</ele>
+      </trkpt>
+      <trkpt lat="46.926728" lon="8.579439">
+        <ele>611.1</ele>
+      </trkpt>
+      <trkpt lat="46.926614" lon="8.578992">
+        <ele>605.4</ele>
+      </trkpt>
+      <trkpt lat="46.92681" lon="8.578814">
+        <ele>602.1</ele>
+      </trkpt>
+      <trkpt lat="46.926724" lon="8.578725">
+        <ele>605.6</ele>
+      </trkpt>
+      <trkpt lat="46.926776" lon="8.578598">
+        <ele>603.6</ele>
+      </trkpt>
+      <trkpt lat="46.926883" lon="8.578663">
+        <ele>599.9</ele>
+      </trkpt>
+      <trkpt lat="46.927108" lon="8.578511">
+        <ele>590.6</ele>
+      </trkpt>
+      <trkpt lat="46.927157" lon="8.578391">
+        <ele>587.3</ele>
+      </trkpt>
+      <trkpt lat="46.92704" lon="8.578232">
+        <ele>589.1</ele>
+      </trkpt>
+      <trkpt lat="46.927087" lon="8.578003">
+        <ele>587.5</ele>
+      </trkpt>
+      <trkpt lat="46.927205" lon="8.577872">
+        <ele>585.8</ele>
+      </trkpt>
+      <trkpt lat="46.92734" lon="8.577502">
+        <ele>572.8</ele>
+      </trkpt>
+      <trkpt lat="46.927648" lon="8.577412">
+        <ele>554.0</ele>
+      </trkpt>
+      <trkpt lat="46.928028" lon="8.577364">
+        <ele>549.6</ele>
+      </trkpt>
+      <trkpt lat="46.928137" lon="8.577587">
+        <ele>543.2</ele>
+      </trkpt>
+      <trkpt lat="46.928307" lon="8.577603">
+        <ele>537.0</ele>
+      </trkpt>
+      <trkpt lat="46.928532" lon="8.577285">
+        <ele>527.3</ele>
+      </trkpt>
+      <trkpt lat="46.928672" lon="8.577417">
+        <ele>521.9</ele>
+      </trkpt>
+      <trkpt lat="46.928745" lon="8.577411">
+        <ele>516.6</ele>
+      </trkpt>
+      <trkpt lat="46.928823" lon="8.577248">
+        <ele>510.5</ele>
+      </trkpt>
+      <trkpt lat="46.928853" lon="8.577013">
+        <ele>503.2</ele>
+      </trkpt>
+      <trkpt lat="46.928957" lon="8.576814">
+        <ele>498.4</ele>
+      </trkpt>
+      <trkpt lat="46.929049" lon="8.576803">
+        <ele>497.1</ele>
+      </trkpt>
+      <trkpt lat="46.929195" lon="8.576954">
+        <ele>486.2</ele>
+      </trkpt>
+      <trkpt lat="46.929372" lon="8.577306">
+        <ele>482.1</ele>
+      </trkpt>
+      <trkpt lat="46.929617" lon="8.577601">
+        <ele>473.3</ele>
+      </trkpt>
+      <trkpt lat="46.929862" lon="8.577895">
+        <ele>464.4</ele>
+      </trkpt>
+      <trkpt lat="46.930107" lon="8.57819">
+        <ele>455.1</ele>
+      </trkpt>
+      <trkpt lat="46.930199" lon="8.578444">
+        <ele>451.5</ele>
+      </trkpt>
+      <trkpt lat="46.93023" lon="8.578721">
+        <ele>451.4</ele>
+      </trkpt>
+      <trkpt lat="46.930336" lon="8.578716">
+        <ele>448.2</ele>
+      </trkpt>
+      <trkpt lat="46.930518" lon="8.578674">
+        <ele>449.4</ele>
+      </trkpt>
+      <trkpt lat="46.930642" lon="8.578621">
+        <ele>450.5</ele>
+      </trkpt>
+      <trkpt lat="46.930854" lon="8.578447">
+        <ele>449.3</ele>
+      </trkpt>
+      <trkpt lat="46.931016" lon="8.578314">
+        <ele>448.3</ele>
+      </trkpt>
+      <trkpt lat="46.931195" lon="8.578186">
+        <ele>447.1</ele>
+      </trkpt>
+      <trkpt lat="46.931334" lon="8.578155">
+        <ele>446.3</ele>
+      </trkpt>
+      <trkpt lat="46.931461" lon="8.578182">
+        <ele>446.5</ele>
+      </trkpt>
+      <trkpt lat="46.931508" lon="8.578192">
+        <ele>446.5</ele>
+      </trkpt>
+      <trkpt lat="46.931676" lon="8.57825">
+        <ele>444.9</ele>
+      </trkpt>
+      <trkpt lat="46.931762" lon="8.578235">
+        <ele>445.3</ele>
+      </trkpt>
+      <trkpt lat="46.932122" lon="8.578053">
+        <ele>444.4</ele>
+      </trkpt>
+      <trkpt lat="46.932254" lon="8.578054">
+        <ele>444.6</ele>
+      </trkpt>
+      <trkpt lat="46.932451" lon="8.578138">
+        <ele>444.1</ele>
+      </trkpt>
+      <trkpt lat="46.93272" lon="8.57827">
+        <ele>441.5</ele>
+      </trkpt>
+      <trkpt lat="46.93295" lon="8.57835">
+        <ele>441.1</ele>
+      </trkpt>
+      <trkpt lat="46.933088" lon="8.578389">
+        <ele>441.9</ele>
+      </trkpt>
+      <trkpt lat="46.933389" lon="8.578419">
+        <ele>444.6</ele>
+      </trkpt>
+      <trkpt lat="46.933456" lon="8.578426">
+        <ele>444.9</ele>
+      </trkpt>
+      <trkpt lat="46.933515" lon="8.578431">
+        <ele>445.3</ele>
+      </trkpt>
+      <trkpt lat="46.933905" lon="8.578503">
+        <ele>445.6</ele>
+      </trkpt>
+      <trkpt lat="46.934106" lon="8.578639">
+        <ele>445.0</ele>
+      </trkpt>
+      <trkpt lat="46.934233" lon="8.578803">
+        <ele>444.3</ele>
+      </trkpt>
+      <trkpt lat="46.934387" lon="8.579062">
+        <ele>443.7</ele>
+      </trkpt>
+      <trkpt lat="46.934681" lon="8.579436">
+        <ele>442.6</ele>
+      </trkpt>
+      <trkpt lat="46.934748" lon="8.579538">
+        <ele>442.6</ele>
+      </trkpt>
+      <trkpt lat="46.934773" lon="8.57962">
+        <ele>442.5</ele>
+      </trkpt>
+      <trkpt lat="46.93478" lon="8.579692">
+        <ele>442.3</ele>
+      </trkpt>
+      <trkpt lat="46.934779" lon="8.579816">
+        <ele>442.0</ele>
+      </trkpt>
+      <trkpt lat="46.934794" lon="8.579881">
+        <ele>441.7</ele>
+      </trkpt>
+      <trkpt lat="46.934817" lon="8.579919">
+        <ele>441.7</ele>
+      </trkpt>
+      <trkpt lat="46.934858" lon="8.579962">
+        <ele>438.9</ele>
+      </trkpt>
+      <trkpt lat="46.934885" lon="8.579991">
+        <ele>437.5</ele>
+      </trkpt>
+      <trkpt lat="46.934975" lon="8.580061">
+        <ele>440.3</ele>
+      </trkpt>
+      <trkpt lat="46.935056" lon="8.580106">
+        <ele>439.6</ele>
+      </trkpt>
+      <trkpt lat="46.935086" lon="8.580119">
+        <ele>439.3</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

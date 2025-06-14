@@ -9,6 +9,87 @@
     "date": null
   },
   {
+    "id": 2,
+    "file": "gpx/t21823397_alpenkranz 2. etappe.gpx",
+    "title": "Etappe 2: Gitschenen – St. Jakob - Biwaldalp",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-2.-etappe-gitschenen-st.-jakob-biwaldalp/21823397/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 3,
+    "file": "gpx/t21959357_alpenkranz 3. etappe.gpx",
+    "title": "Etappe 3: Biwaldalp- Sassigrat - Musenalp",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-3.-etappe-biwaldalp-sassigrat-musenalp/21959357/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 4,
+    "file": "gpx/t21972114_alpenkranz 4. etappe.gpx",
+    "title": "Etappe 4: Musenalp - Bärchi - Eggbergen",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-4.-etappe-musenalp-baerchi-eggbergen/21972114/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 5,
+    "file": "gpx/t28918978_alpenkranz 5. etappe.gpx",
+    "title": "Etappe 5: Eggberge - Schön Chulm - Lidernenhütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-5.-etappe-eggberge-schoen-chulm-lidernenhuette/28918978/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 6,
+    "file": "gpx/t28919014_alpenkranz 6. etappe.gpx",
+    "title": "Etappe 6: Lidernenhütte - Rossstock - Biel",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-6.-etappe-lidernenhuette-rossstock-biel/28919014/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 7,
+    "file": "gpx/t28919046_alpenkranz 7. etappe- biel.gpx",
+    "title": "Etappe 7: Biel - Geissgrätli -Ratzi",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-7.-etappe-biel-geissgraetli-ratzi/28919046/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 8,
+    "file": "gpx/t28919104_alpenkranz 8. etappe.gpx",
+    "title": "Etappe 8: Ratzi - Heidmannegg - Klausenpass",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-8.-etappe-ratzi-heidmannegg-klausenpass/28919104/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 9,
+    "file": "gpx/t28919145_alpenkranz 9. etappe.gpx",
+    "title": "Etappe 9: Klausenpass - Wannelen - Sittlisalp",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-9.-etappe-klausenpass-wannelen-sittlisalp/28919145/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 10,
+    "file": "gpx/t28919177_alpenkranz 10. etappe.gpx",
+    "title": "Etappe 10: Sittlisalp -Griesstal - Haldi",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-10.-etappe-sittlisalp-griesstal-haldi/28919177/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
     "id": 11,
     "file": "gpx/t28919252_alpenkranz 11. etappe.gpx",
     "title": "Etappe 11: Haldi — Bälmeten —Seewlisee",
@@ -81,6 +162,132 @@
     "date": null
   },
   {
+    "id": 19,
+    "file": "gpx/t28919482_alpenkranz 19. etappe.gpx",
+    "title": "Etappe 19: Treschhütte - Fellilücke - Maighelshütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-19.-etappe-treschhuette-felliluecke-maighelshuette/28919482/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 20,
+    "file": "gpx/t28919499_alpenkranz 20. etappe.gpx",
+    "title": "Etappe 20: Maighelshütte - Lolenpass - Vermigelhütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-20.-etappe-maighelshuette-lolenpass-vermigelhuette/28919499/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 21,
+    "file": "gpx/t28919514_alpenkranz 21. etappe.gpx",
+    "title": "Etappe 21: Vermigelhütte - Piz Giübin - Gotthardpass",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-21.-etappe-vermigelhuette-piz-giuebin-gotthardpass/28919514/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 22,
+    "file": "gpx/t28919534_alpenkranz 22. etappe.gpx",
+    "title": "Etappe 22: Gotthardpass - Cavannapass - Rotondohütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-22.-etappe-gotthardpass-cavannapass-rotondohuette/28919534/",
+    "difficulty": "T5",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 23,
+    "file": "gpx/t28919581_alpenkranz 23. etappe.gpx",
+    "title": "Etappe 23: Rotondohütte -Furkapass- Sidelenhütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-23.-etappe-rotondohuette-furkapass-sidelenhuette/28919581/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 24,
+    "file": "gpx/t28919599_alpenkranz 24. etappe.gpx",
+    "title": "Etappe 24: Sidelenhütte - Unter dem Bielenhorn -Tiefenbach",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-24.-etappe-sidelenhuette-unter-dem-bielenhorn-tiefenbach/28919599/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 25,
+    "file": "gpx/t28919637_alpenkranz 25. etappe.gpx",
+    "title": "Etappe 25: Tiefenbach - Schafberg - Albert-Heim-Hütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-25.-etappe-tiefenbach-schafberg-albert-heim-huette/28919637/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 26,
+    "file": "gpx/t28919644_alpenkranz 26. etappe.gpx",
+    "title": "Etappe 26: Albert-Heim-Hütte - Lochberglücke - Dammahütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-26.-etappe-albert-heim-huette-lochbergluecke-dammahuette/28919644/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 27,
+    "file": "gpx/t28919674_alpenkranz 27. etappe.gpx",
+    "title": "Etappe 27: Dammahütte - Vorderröti - Chelenalphütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-27.-etappe-dammahuette-vorderroeti-chelenalphuette/28919674/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 28,
+    "file": "gpx/t28919697_alpenkranz 28. etappe.gpx",
+    "title": "Etappe 28: Chelenalphütte - Hinter Mur - Bergseehütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-28.-etappe-chelenalphuette-hinter-mur-bergseehuette/28919697/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 29,
+    "file": "gpx/t28919712_alpenkranz 29. etappe.gpx",
+    "title": "Etappe 29: Bergseehütte - Scharte des Horenfellistocks -Voralphütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-29.-etappe-bergseehuette-scharte-des-horenfellistocks/28919712/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 30,
+    "file": "gpx/t28919749_alpenkranz 30. etappe.gpx",
+    "title": "Etappe 30: Voralphütte -Salbitbrücke - Salbithütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-30.-etappe-voralphuette-salbitbruecke-salbithuette/28919749/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 31,
+    "file": "gpx/t28919792_alpenkranz 31. etappe.gpx",
+    "title": "Etappe 31: Salbithütte - Wassen - Sustenpass",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-31.-etappe-salbithuette-wassen-sustenpass/28919792/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 32,
+    "file": "gpx/t28919828_alpenkranz 32. etappe.gpx",
+    "title": "Etappe 32: Sustenpass -Guferjoch- Sustlihütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-32.-etappe-sustenpass-guferjoch-sustlihuette/28919828/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
     "id": 33,
     "file": "gpx/t28919846_alpenkranz 33. etappe.gpx",
     "title": "Etappe 33: Sustlihütte - Gorezmettlen - Sewenhütte",
@@ -88,5 +295,68 @@
     "difficulty": "T2",
     "done": true,
     "date": "2025-06-09"
+  },
+  {
+    "id": 34,
+    "file": "gpx/t28919856_alpenkranz 34. etappe.gpx",
+    "title": "Etappe 34: Sewenhütte - Gornerental - Gurtnellen Dorf",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-34.-etappe-sewenhuette-gornerental-gurtnellen-dorf/28919856/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 35,
+    "file": "gpx/t28919877_alpenkranz 35. etappe.gpx",
+    "title": "Etappe 35: Gurtnellen Dorf - Wildampferen -Arni",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-35.-etappe-gurtnellen-dorf-wildampferen-arni/28919877/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 36,
+    "file": "gpx/t28919896_alpenkranz 36. etappe.gpx",
+    "title": "Etappe 36: Arni - Riedboden- Sunniggrathütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-36.-etappe-arni-riedboden-sunniggrathuette/28919896/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 37,
+    "file": "gpx/t28919908_alpenkranz 37. etappe.gpx",
+    "title": "Etappe 37: Sunniggrathütte - Langchälengrätli-Leutschachhütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-37.-etappe-sunniggrathuette-langchaelengraetli-leutschachhuette/28919908/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 38,
+    "file": "gpx/t28919928_alpenkranz 38. etappe.gpx",
+    "title": "Etappe 38: Leutschachhütte - Leidsee - Kröntenhütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-38.-etappe-leutschachhuette-leidsee-kroentenhuette/28919928/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 39,
+    "file": "gpx/t28919952_alpenkranz 39. etappe.gpx",
+    "title": "Etappe 39: Kröntenhütte - Schlossberglücke - Spannorthütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-39.-etappe-kroentenhuette-schlossbergluecke-spannorthuette/28919952/",
+    "difficulty": "T5",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 40,
+    "file": "gpx/t28919971_alpenkranz 40. etappe.gpx",
+    "title": "Etappe 40: Spannorthütte -Surenenpass - Brüsti",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-40.-etappe-spannorthuette-surenenpass-bruesti/28919971/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
   }
 ]

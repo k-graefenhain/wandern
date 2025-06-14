@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1">
+  <metadata>
+    <name>Alpenkranz 3. Etappe: Biwaldalp- Sassigrat - Musenalp</name>
+    <author>
+      <name>Sanna Laurén - Verein Urner Wanderwege</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/21959357"/>
+    <time>2025-04-30T09:38:12.919Z</time>
+    <extensions>
+      <oa:oaCategory>longDistanceHikingTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <wpt lon="8.528116" lat="46.879928">
+    <ele>1696</ele>
+    <name>Alp Biwald</name>
+    <desc>Die Milch wird zu Alp- und Spezialkäse, Joghurt, Molke und Butter weiterverarbeitet und kann auch am Urner Alpkäsemarkt erworben werden.</desc>
+    <src>outdooractive.21430.19194047</src>
+    <link href="https://biwaldalp.ch"/>
+    <type>Alpe</type>
+  </wpt>
+  <wpt lon="8.528234" lat="46.880277">
+    <ele>1696</ele>
+    <name>Biwaldalp</name>
+    <desc><![CDATA[Die Biwaldalp (1'649 m ü M) ist ein Bergrestaurant mit Schlaf- und Übernachtungsmöglichkeit. Im angegliederten Alpbetrieb wird Alpkäse hergestellt. Die Biwaldalp ist berühmt für die tolle Aussicht, die wunderbare Abendstimmung, die Möglichkeit Wildtiere zu beobachten und als Ausgangspunkt für die Besteigung des Urirotstockes.]]></desc>
+    <src>outdooractive.21430.16314937</src>
+    <link href="http://www.biwaldalp.ch"/>
+    <type>Gasthof</type>
+  </wpt>
+  <wpt lon="8.518996" lat="46.883192">
+    <ele>1223</ele>
+    <name>Alp Chimiboden</name>
+    <desc>Die Milch wird zu Alpkäse und Butter verarbeitet.</desc>
+    <src>outdooractive.21430.19194162</src>
+    <link href="https://www.urneralpen.ch/unteres-reusstal/isenthal-/-seelisberg/chimiboden/"/>
+    <type>Alpe</type>
+  </wpt>
+  <wpt lon="8.54672" lat="46.887651">
+    <ele>1478</ele>
+    <name>Alp Vorder Musenalp</name>
+    <desc>Der Käse auf der vorderen Alp wird nur für den privaten Gebrauch hergestellt.</desc>
+    <src>outdooractive.21430.19194630</src>
+    <link href="https://www.urneralpen.ch/unteres-reusstal/isenthal-/-seelisberg/vorder-musenalp/"/>
+    <type>Alpe</type>
+  </wpt>
+  <wpt lon="8.554887" lat="46.885905">
+    <ele>1193</ele>
+    <name>Luftseilbahn Chlital-Musenalp (1&apos;200 müM)</name>
+    <desc><![CDATA[Die Musenalp liegt im Isenthaler Kleintal auf 1500 m ü.M. am Fusse des Schlieren im Urirotstock-Gebiet, inmitten grossartiger Bergwelt. Vom Dorf Isenthal erreicht man das Berggasthaus in 2 Stunden angenehmer Wanderzeit. Von der Talstation der Luftseilbahn über gut markierten Wanderweg in 45 Minuten (Personentransport möglich). / Das heimelige Berggasthaus Musenalp bietet eine preisgünstige Unterkunft, gutbürgerliche Küche, Musik und ist sehr familienfreundlich.
+ / Fahrzeit: 5 Minuten / Kabinengrösse: 4 Personen / Kontakt / Bergrestaurant Musenalp / 6461 Isenthal / Tel. +41 (0)41 878 11 22 oder +41 (0)79 379 16 66]]></desc>
+    <src>outdooractive.21430.13014611</src>
+    <link href="http://www.bergbahnen.org/seilbahn/2662/"/>
+    <type>Bergbahn Talstation</type>
+  </wpt>
+  <wpt lon="8.545789" lat="46.88207">
+    <ele>1490</ele>
+    <name>Luftseilbahn Chlital-Musenalp (1&apos;500 müM)</name>
+    <desc><![CDATA[Die Musenalp liegt im Isenthaler Kleintal auf 1500 m ü.M. am Fusse des Schlieren im Urirotstock-Gebiet, inmitten grossartiger Bergwelt. Vom Dorf Isenthal erreicht man das Berggasthaus in 2 Stunden angenehmer Wanderzeit. Von der Talstation der Luftseilbahn über gut markierten Wanderweg in 45 Minuten (Personentransport möglich). / Das heimelige Berggasthaus Musenalp bietet eine preisgünstige Unterkunft, gutbürgerliche Küche, Musik und ist sehr familienfreundlich.
+ / Fahrzeit: 5 Minuten / Kabinengrösse: 4 Personen / Kontakt / Bergrestaurant Musenalp / 6461 Isenthal / Tel. +41 (0)41 878 11 22 oder +41 (0)79 379 16 66]]></desc>
+    <src>outdooractive.21430.13014643</src>
+    <link href="http://www.bergbahnen.org/seilbahn/2662/"/>
+    <type>Bergbahn Bergstation</type>
+  </wpt>
+  <wpt lon="8.545942" lat="46.881822">
+    <ele>1487</ele>
+    <name>Bergrestaurant Musenalp</name>
+    <desc><![CDATA[Von der Musenalp (1486 m.ü.M.) aus sehen wir bis zu den Mythen. Das Restaurant verfügt über eine Gaststube für ca. 40 Personen, welche bestens geeignet ist für Gruppen und Vereine. Bei schönem Wetter bietet die Terasse eine grandiose Aussicht. Alle warmen Gerichte wie Älplermagronen oder Rösti werden auf dem Holzofen zubereitet. Beim Bergasthaus befindet sich ein Slpbetrieb, auf dem Alpkäse hergestellt wird. Selbstverständlich kann der Käse im Berggasthof Musenalp gekauft werden.]]></desc>
+    <src>outdooractive.21430.16418109</src>
+    <link href="https://www.bergrestaurant-musenalp.com"/>
+    <type>Gasthof</type>
+  </wpt>
+  <wpt lon="8.545105" lat="46.882121">
+    <ele>1499</ele>
+    <name>Alp Musenalp</name>
+    <desc>Während der Käse auf der vorderen Alp nur für den privaten Gebrauch hergestellt wird, produziert der</desc>
+    <src>outdooractive.21430.19194430</src>
+    <link href="http://www.musenalp-isenthal.ch"/>
+    <type>Alpe</type>
+  </wpt>
+  <trk>
+    <name>Alpenkranz 3. Etappe: Biwaldalp- Sassigrat - Musenalp</name>
+    <desc>Über den Sassigrat bekommt der Wanderer Zugang zum Isenthaler Kleintal. Dort stehen den Alpinisten Uri-Rotstock, Gitschen und Schlieren zur Auswahl. Ein währschaftes Frühstück mit frischer Alpmilch, dazu Kuhglockengeläute auf den Alpweiden - diese Idylle erlebt man auf der Musenalp.</desc>
+    <type>longDistanceHikingTrail</type>
+    <trkseg>
+      <trkpt lat="46.88023" lon="8.528362">
+        <ele>1699.14947</ele>
+      </trkpt>
+      <trkpt lat="46.880373" lon="8.528312">
+        <ele>1695.4689</ele>
+      </trkpt>
+      <trkpt lat="46.88054" lon="8.528538">
+        <ele>1699.03747</ele>
+      </trkpt>
+      <trkpt lat="46.880707" lon="8.528764">
+        <ele>1704.44155</ele>
+      </trkpt>
+      <trkpt lat="46.880992" lon="8.529033">
+        <ele>1709.718</ele>
+      </trkpt>
+      <trkpt lat="46.881278" lon="8.529303">
+        <ele>1713.20659</ele>
+      </trkpt>
+      <trkpt lat="46.881399" lon="8.529454">
+        <ele>1714.62518</ele>
+      </trkpt>
+      <trkpt lat="46.88164" lon="8.529778">
+        <ele>1715.25933</ele>
+      </trkpt>
+      <trkpt lat="46.881857" lon="8.529983">
+        <ele>1714.67408</ele>
+      </trkpt>
+      <trkpt lat="46.882108" lon="8.530412">
+        <ele>1715.20044</ele>
+      </trkpt>
+      <trkpt lat="46.882296" lon="8.530995">
+        <ele>1720.85813</ele>
+      </trkpt>
+      <trkpt lat="46.882468" lon="8.531065">
+        <ele>1720.47968</ele>
+      </trkpt>
+      <trkpt lat="46.882583" lon="8.531246">
+        <ele>1724.07126</ele>
+      </trkpt>
+      <trkpt lat="46.882909" lon="8.531564">
+        <ele>1729.27492</ele>
+      </trkpt>
+      <trkpt lat="46.883234" lon="8.531883">
+        <ele>1737.55746</ele>
+      </trkpt>
+      <trkpt lat="46.883458" lon="8.532089">
+        <ele>1743.3705</ele>
+      </trkpt>
+      <trkpt lat="46.883681" lon="8.532296">
+        <ele>1750.5906</ele>
+      </trkpt>
+      <trkpt lat="46.883983" lon="8.532359">
+        <ele>1758.23104</ele>
+      </trkpt>
+      <trkpt lat="46.88402" lon="8.532388">
+        <ele>1759.67458</ele>
+      </trkpt>
+      <trkpt lat="46.884044" lon="8.532407">
+        <ele>1760.45481</ele>
+      </trkpt>
+      <trkpt lat="46.884074" lon="8.532717">
+        <ele>1768.48081</ele>
+      </trkpt>
+      <trkpt lat="46.884197" lon="8.533251">
+        <ele>1781.17412</ele>
+      </trkpt>
+      <trkpt lat="46.884274" lon="8.53349">
+        <ele>1786.18499</ele>
+      </trkpt>
+      <trkpt lat="46.884344" lon="8.533532">
+        <ele>1787.61722</ele>
+      </trkpt>
+      <trkpt lat="46.884428" lon="8.53369">
+        <ele>1791.77941</ele>
+      </trkpt>
+      <trkpt lat="46.884353" lon="8.533704">
+        <ele>1793.84863</ele>
+      </trkpt>
+      <trkpt lat="46.884472" lon="8.533954">
+        <ele>1802.02804</ele>
+      </trkpt>
+      <trkpt lat="46.88456" lon="8.534053">
+        <ele>1805.1555</ele>
+      </trkpt>
+      <trkpt lat="46.884707" lon="8.53427">
+        <ele>1811.84264</ele>
+      </trkpt>
+      <trkpt lat="46.884932" lon="8.534437">
+        <ele>1822.84737</ele>
+      </trkpt>
+      <trkpt lat="46.885154" lon="8.534554">
+        <ele>1830.00266</ele>
+      </trkpt>
+      <trkpt lat="46.885292" lon="8.534566">
+        <ele>1834.36779</ele>
+      </trkpt>
+      <trkpt lat="46.885399" lon="8.534774">
+        <ele>1834.50001</ele>
+      </trkpt>
+      <trkpt lat="46.885529" lon="8.534994">
+        <ele>1840.49546</ele>
+      </trkpt>
+      <trkpt lat="46.88563" lon="8.535062">
+        <ele>1843.83376</ele>
+      </trkpt>
+      <trkpt lat="46.885676" lon="8.535093">
+        <ele>1844.03183</ele>
+      </trkpt>
+      <trkpt lat="46.885975" lon="8.535397">
+        <ele>1851.01321</ele>
+      </trkpt>
+      <trkpt lat="46.886305" lon="8.535703">
+        <ele>1859.06304</ele>
+      </trkpt>
+      <trkpt lat="46.886465" lon="8.535961">
+        <ele>1868.23615</ele>
+      </trkpt>
+      <trkpt lat="46.886613" lon="8.536201">
+        <ele>1855.93042</ele>
+      </trkpt>
+      <trkpt lat="46.886518" lon="8.536313">
+        <ele>1852.22223</ele>
+      </trkpt>
+      <trkpt lat="46.886625" lon="8.536401">
+        <ele>1844.0954</ele>
+      </trkpt>
+      <trkpt lat="46.886732" lon="8.536482">
+        <ele>1840.78239</ele>
+      </trkpt>
+      <trkpt lat="46.886794" lon="8.536562">
+        <ele>1838.7847</ele>
+      </trkpt>
+      <trkpt lat="46.886837" lon="8.536694">
+        <ele>1833.86309</ele>
+      </trkpt>
+      <trkpt lat="46.886842" lon="8.536711">
+        <ele>1833.32914</ele>
+      </trkpt>
+      <trkpt lat="46.886826" lon="8.53675">
+        <ele>1830.94888</ele>
+      </trkpt>
+      <trkpt lat="46.886594" lon="8.536761">
+        <ele>1823.2489</ele>
+      </trkpt>
+      <trkpt lat="46.886483" lon="8.536802">
+        <ele>1820.90034</ele>
+      </trkpt>
+      <trkpt lat="46.886284" lon="8.536955">
+        <ele>1811.77452</ele>
+      </trkpt>
+      <trkpt lat="46.886165" lon="8.537111">
+        <ele>1806.00071</ele>
+      </trkpt>
+      <trkpt lat="46.886232" lon="8.537171">
+        <ele>1802.44736</ele>
+      </trkpt>
+      <trkpt lat="46.886356" lon="8.537233">
+        <ele>1797.52257</ele>
+      </trkpt>
+      <trkpt lat="46.886375" lon="8.537272">
+        <ele>1795.64573</ele>
+      </trkpt>
+      <trkpt lat="46.886366" lon="8.537334">
+        <ele>1793.0149</ele>
+      </trkpt>
+      <trkpt lat="46.886261" lon="8.537463">
+        <ele>1787.83881</ele>
+      </trkpt>
+      <trkpt lat="46.886424" lon="8.537591">
+        <ele>1782.29307</ele>
+      </trkpt>
+      <trkpt lat="46.886551" lon="8.537776">
+        <ele>1775.64491</ele>
+      </trkpt>
+      <trkpt lat="46.886581" lon="8.537821">
+        <ele>1774.60154</ele>
+      </trkpt>
+      <trkpt lat="46.886626" lon="8.537903">
+        <ele>1771.85836</ele>
+      </trkpt>
+      <trkpt lat="46.886624" lon="8.537936">
+        <ele>1770.2353</ele>
+      </trkpt>
+      <trkpt lat="46.886601" lon="8.537962">
+        <ele>1768.47368</ele>
+      </trkpt>
+      <trkpt lat="46.886458" lon="8.537996">
+        <ele>1764.05992</ele>
+      </trkpt>
+      <trkpt lat="46.886359" lon="8.538082">
+        <ele>1758.74761</ele>
+      </trkpt>
+      <trkpt lat="46.886159" lon="8.538242">
+        <ele>1753.5586</ele>
+      </trkpt>
+      <trkpt lat="46.885959" lon="8.538403">
+        <ele>1748.52738</ele>
+      </trkpt>
+      <trkpt lat="46.885731" lon="8.53859">
+        <ele>1745.00436</ele>
+      </trkpt>
+      <trkpt lat="46.885584" lon="8.538841">
+        <ele>1740.20957</ele>
+      </trkpt>
+      <trkpt lat="46.885437" lon="8.539091">
+        <ele>1734.74088</ele>
+      </trkpt>
+      <trkpt lat="46.885548" lon="8.539196">
+        <ele>1728.85779</ele>
+      </trkpt>
+      <trkpt lat="46.885514" lon="8.539264">
+        <ele>1727.07661</ele>
+      </trkpt>
+      <trkpt lat="46.885567" lon="8.53933">
+        <ele>1723.98455</ele>
+      </trkpt>
+      <trkpt lat="46.88555" lon="8.539405">
+        <ele>1721.43096</ele>
+      </trkpt>
+      <trkpt lat="46.885631" lon="8.539475">
+        <ele>1717.47695</ele>
+      </trkpt>
+      <trkpt lat="46.885569" lon="8.539591">
+        <ele>1714.09097</ele>
+      </trkpt>
+      <trkpt lat="46.885632" lon="8.53967">
+        <ele>1710.43218</ele>
+      </trkpt>
+      <trkpt lat="46.88549" lon="8.539777">
+        <ele>1706.47457</ele>
+      </trkpt>
+      <trkpt lat="46.885372" lon="8.539771">
+        <ele>1704.9804</ele>
+      </trkpt>
+      <trkpt lat="46.885269" lon="8.539821">
+        <ele>1701.68947</ele>
+      </trkpt>
+      <trkpt lat="46.885154" lon="8.539994">
+        <ele>1692.45143</ele>
+      </trkpt>
+      <trkpt lat="46.885049" lon="8.539943">
+        <ele>1690.25542</ele>
+      </trkpt>
+      <trkpt lat="46.885005" lon="8.53995">
+        <ele>1689.45039</ele>
+      </trkpt>
+      <trkpt lat="46.884884" lon="8.540291">
+        <ele>1680.26723</ele>
+      </trkpt>
+      <trkpt lat="46.884926" lon="8.540354">
+        <ele>1676.53053</ele>
+      </trkpt>
+      <trkpt lat="46.884806" lon="8.540548">
+        <ele>1670.09462</ele>
+      </trkpt>
+      <trkpt lat="46.88479" lon="8.540615">
+        <ele>1667.1496</ele>
+      </trkpt>
+      <trkpt lat="46.884771" lon="8.540696">
+        <ele>1663.05885</ele>
+      </trkpt>
+      <trkpt lat="46.884722" lon="8.54078">
+        <ele>1661.79062</ele>
+      </trkpt>
+      <trkpt lat="46.884613" lon="8.540893">
+        <ele>1653.80098</ele>
+      </trkpt>
+      <trkpt lat="46.88455" lon="8.540914">
+        <ele>1652.5662</ele>
+      </trkpt>
+      <trkpt lat="46.884467" lon="8.540912">
+        <ele>1651.80146</ele>
+      </trkpt>
+      <trkpt lat="46.88441" lon="8.540941">
+        <ele>1649.87024</ele>
+      </trkpt>
+      <trkpt lat="46.884278" lon="8.541109">
+        <ele>1644.50603</ele>
+      </trkpt>
+      <trkpt lat="46.884154" lon="8.541218">
+        <ele>1640.02884</ele>
+      </trkpt>
+      <trkpt lat="46.883987" lon="8.541254">
+        <ele>1636.31956</ele>
+      </trkpt>
+      <trkpt lat="46.883847" lon="8.54131">
+        <ele>1635.56425</ele>
+      </trkpt>
+      <trkpt lat="46.884092" lon="8.541535">
+        <ele>1625.72732</ele>
+      </trkpt>
+      <trkpt lat="46.884248" lon="8.541673">
+        <ele>1621.44513</ele>
+      </trkpt>
+      <trkpt lat="46.884376" lon="8.54181">
+        <ele>1617.4429</ele>
+      </trkpt>
+      <trkpt lat="46.884394" lon="8.541862">
+        <ele>1615.91341</ele>
+      </trkpt>
+      <trkpt lat="46.884346" lon="8.54189">
+        <ele>1614.61551</ele>
+      </trkpt>
+      <trkpt lat="46.884391" lon="8.541973">
+        <ele>1611.69551</ele>
+      </trkpt>
+      <trkpt lat="46.884401" lon="8.542137">
+        <ele>1607.11119</ele>
+      </trkpt>
+      <trkpt lat="46.884377" lon="8.542168">
+        <ele>1606.35646</ele>
+      </trkpt>
+      <trkpt lat="46.884411" lon="8.54232">
+        <ele>1601.8882</ele>
+      </trkpt>
+      <trkpt lat="46.884377" lon="8.542385">
+        <ele>1599.95316</ele>
+      </trkpt>
+      <trkpt lat="46.884394" lon="8.542454">
+        <ele>1598.01558</ele>
+      </trkpt>
+      <trkpt lat="46.884354" lon="8.542534">
+        <ele>1595.44689</ele>
+      </trkpt>
+      <trkpt lat="46.884392" lon="8.54262">
+        <ele>1593.27357</ele>
+      </trkpt>
+      <trkpt lat="46.884393" lon="8.542752">
+        <ele>1589.9962</ele>
+      </trkpt>
+      <trkpt lat="46.884363" lon="8.542826">
+        <ele>1588.29686</ele>
+      </trkpt>
+      <trkpt lat="46.884342" lon="8.542974">
+        <ele>1584.96747</ele>
+      </trkpt>
+      <trkpt lat="46.884278" lon="8.54305">
+        <ele>1583.19475</ele>
+      </trkpt>
+      <trkpt lat="46.884237" lon="8.543198">
+        <ele>1580.67798</ele>
+      </trkpt>
+      <trkpt lat="46.884183" lon="8.543311">
+        <ele>1579.03198</ele>
+      </trkpt>
+      <trkpt lat="46.884138" lon="8.543488">
+        <ele>1577.50261</ele>
+      </trkpt>
+      <trkpt lat="46.884072" lon="8.543713">
+        <ele>1576.68971</ele>
+      </trkpt>
+      <trkpt lat="46.884006" lon="8.543808">
+        <ele>1574.33119</ele>
+      </trkpt>
+      <trkpt lat="46.883899" lon="8.543921">
+        <ele>1569.59811</ele>
+      </trkpt>
+      <trkpt lat="46.883813" lon="8.544033">
+        <ele>1565.34441</ele>
+      </trkpt>
+      <trkpt lat="46.883765" lon="8.544161">
+        <ele>1562.4146</ele>
+      </trkpt>
+      <trkpt lat="46.883764" lon="8.544301">
+        <ele>1559.21598</ele>
+      </trkpt>
+      <trkpt lat="46.883729" lon="8.544435">
+        <ele>1557.16034</ele>
+      </trkpt>
+      <trkpt lat="46.883689" lon="8.544526">
+        <ele>1555.40756</ele>
+      </trkpt>
+      <trkpt lat="46.883624" lon="8.544576">
+        <ele>1553.24095</ele>
+      </trkpt>
+      <trkpt lat="46.88347" lon="8.544602">
+        <ele>1548.38378</ele>
+      </trkpt>
+      <trkpt lat="46.883318" lon="8.54455">
+        <ele>1544.81187</ele>
+      </trkpt>
+      <trkpt lat="46.883225" lon="8.544463">
+        <ele>1543.30669</ele>
+      </trkpt>
+      <trkpt lat="46.883057" lon="8.54432">
+        <ele>1543.77168</ele>
+      </trkpt>
+      <trkpt lat="46.882977" lon="8.544301">
+        <ele>1542.11187</ele>
+      </trkpt>
+      <trkpt lat="46.882712" lon="8.544334">
+        <ele>1536.20589</ele>
+      </trkpt>
+      <trkpt lat="46.882682" lon="8.5444">
+        <ele>1534.18135</ele>
+      </trkpt>
+      <trkpt lat="46.882787" lon="8.544687">
+        <ele>1528.39528</ele>
+      </trkpt>
+      <trkpt lat="46.882933" lon="8.544958">
+        <ele>1520.67668</ele>
+      </trkpt>
+      <trkpt lat="46.882943" lon="8.544997">
+        <ele>1519.69916</ele>
+      </trkpt>
+      <trkpt lat="46.882591" lon="8.545135">
+        <ele>1508.95641</ele>
+      </trkpt>
+      <trkpt lat="46.882239" lon="8.545273">
+        <ele>1495.84038</ele>
+      </trkpt>
+      <trkpt lat="46.882213" lon="8.545414">
+        <ele>1493.43963</ele>
+      </trkpt>
+      <trkpt lat="46.88219" lon="8.545448">
+        <ele>1492.90189</ele>
+      </trkpt>
+      <trkpt lat="46.882052" lon="8.545469">
+        <ele>1493.29049</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
