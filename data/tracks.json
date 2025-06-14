@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "file": "gpx/t21773143_alpenkranz 1. etappe.gpx",
+    "title": "Etappe 1: Klewenalp - Hinterjochli - Gitschenen",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-1.-etappe-klewenalp-hinterjochli-gitschenen-isenthal-/21773143/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 11,
+    "file": "gpx/t28919252_alpenkranz 11. etappe.gpx",
+    "title": "Etappe 11: Haldi — Bälmeten —Seewlisee",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-11.-etappe-haldi-baelmeten-seewlisee/28919252/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 12,
+    "file": "gpx/t28919281_alpenkranz 12. etappe.gpx",
+    "title": "Etappe 12: Seewlisee — Kilcherberg —Golzeren",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-12.-etappe-seewlisee-kilcherberg-golzeren/28919281/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 13,
+    "file": "gpx/t28919302_alpenkranz 13. etappe.gpx",
+    "title": "Etappe 13: Golzeren — Oberchäseren —Windgällenhütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-13.-etappe-golzeren-oberchaeseren-windgaellenhuette/28919302/",
+    "difficulty": "T2",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 14,
+    "file": "gpx/t28919321_alpenkranz 14. etappe.gpx",
+    "title": "Etappe 14: Windgällenhütte — Tritt —Hüfihütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-14.-etappe-windgaellenhuette-tritt-huefihuette/28919321/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 15,
+    "file": "gpx/t28919355_alpenkranz 15. etappe.gpx",
+    "title": "Etappe 15: Hüfihütte — Düssialp —Hinterbalm",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-15.-etappe-huefihuette-duessialp-hinterbalm/28919355/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 16,
+    "file": "gpx/t28919370_alpenkranz 16. etappe.gpx",
+    "title": "Etappe 16: Hinterbalm — Brunnital —Cavardirashütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-16.-etappe-hinterbalm-brunnital-cavardirashuette/28919370/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 17,
+    "file": "gpx/t28919391_alpenkranz 17. etappe.gpx",
+    "title": "Etappe 17: Cavardirashütte —Chrüzlipass — Etzlihütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-17.-etappe-cavardirashuette-chruezlipass-etzlihuette/28919391/",
+    "difficulty": "T4",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 18,
+    "file": "gpx/t28919471_alpenkranz 18. etappe.gpx",
+    "title": "Etappe 18: Etzlihütte — Pörtlilücke —Treschhütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-18.-etappe-etzlihuette-poertliluecke-treschhuette/28919471/",
+    "difficulty": "T3",
+    "done": false,
+    "date": null
+  },
+  {
+    "id": 33,
+    "file": "gpx/t28919846_alpenkranz 33. etappe.gpx",
+    "title": "Etappe 33: Sustlihütte - Gorezmettlen - Sewenhütte",
+    "link": "https://www.urnerwanderplaner.ch/de/tour/urner-alpenkranz/alpenkranz-33.-etappe-sustlihuette-gorezmettlen-sewenhuette/28919846/",
+    "difficulty": "T2",
+    "done": true,
+    "date": "2025-06-09"
+  }
+]

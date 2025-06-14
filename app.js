@@ -1,0 +1,225 @@
+// Karte auf Kanton Uri zentrieren (Koordinaten von Altdorf)
+const map = L.map('map').setView([46.87, 8.63], 10);
+
+// Swisstopo WMTS Layer einbinden (Pixelkarte farbig)
+const swisstopoLayer = L.tileLayer(
+    'https://wmts.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{z}/{x}/{y}.jpeg',
+    {
+        attribution: '© <a href="https://www.swisstopo.admin.ch">swisstopo</a>',
+        maxZoom: 18,
+        tileSize: 256,
+        opacity: 0.7
+    }
+);
+
+// Swisstopo Höhenlinien Layer
+const contourLines = L.tileLayer(
+    'https://wmts.geo.admin.ch/1.0.0/ch.swisstopo.fixpunkte-hfp3/default/current/3857/{z}/{x}/{y}.png',
+    {
+        attribution: '© swisstopo (Höhenschichten)',
+        maxZoom: 18,
+        opacity: 0.7
+    }
+);
+
+swisstopoLayer.addTo(map);
+contourLines.addTo(map);
+
+// Koordinatenanzeige bei Klick (LV95)
+map.on('click', function(e) {
+    const wgs84 = [e.latlng.lng, e.latlng.lat]; // [lon, lat]
+    const lv95 = proj4('EPSG:4326', 'EPSG:2056', wgs84); // → [Easting, Northing]
+    const easting = Math.round(lv95[0]);
+    const northing = Math.round(lv95[1]);
+    document.getElementById('coords').innerText =
+        `LV95: E ${easting}, N ${northing}`;
+});
+
+
+let tracks = [];    // globale tracks-Variable
+const trackLayers = {}; // Leaflet-GPX-Layers pro Track (Objekt: trackId → GPX-Layer)
+
+const filterDone = document.getElementById('filter-done');
+const filterDifficulty = document.getElementById('filter-difficulty');
+const listDiv = document.getElementById('track-list');
+
+function renderTrackList(trackArray) {
+    listDiv.innerHTML = '';
+    trackArray.forEach(track => {
+        const div = document.createElement('div');
+        div.className = 'track-item';
+
+        const cb = document.createElement('input');
+        cb.type = 'checkbox';
+        cb.checked = track.done;
+        cb.onchange = () => {
+            track.done = cb.checked;
+            // filterTracks(tracks);
+            console.log(`Track "${track.title}" gewandert: ${track.done}`);
+            if (track.done) {
+                div.appendChild(dateInput);
+            } else {
+                div.removeChild(dateInput);
+            }
+        };
+
+        const title = document.createElement('a');
+        title.href = track.link;
+        title.textContent = `${track.title} (${track.difficulty})`;
+        title.target = '_blank';
+        title.onclick = e => {
+            e.preventDefault();
+            // loadTrack(track);
+        };
+
+        const dateInput = document.createElement('input');
+        dateInput.type = 'date';
+        dateInput.value = track.date || '';
+        dateInput.onchange = () => {
+            track.date = dateInput.value;
+            console.log(`Datum für "${track.title}" gesetzt auf ${track.date}`);
+        };
+
+        div.appendChild(cb);
+        div.appendChild(title);
+        if (track.done) {
+            div.appendChild(dateInput);
+        }
+
+        listDiv.appendChild(div);
+    });
+}
+
+function filterTracks(tracks) {
+    // console.log('filterTracks aufgerufen');
+    const doneVal = filterDone.value;
+    const diffVal = filterDifficulty.value;
+
+    const filtered = tracks.filter(t => {
+        if(doneVal === 'done' && !t.done) return false;
+        if(doneVal === 'notdone' && t.done) return false;
+        return !(diffVal !== 'all' && t.difficulty !== diffVal);
+
+    });
+
+    renderTrackList(filtered);
+
+    // Layer auf der Karte anpassen
+    tracks.forEach(track => {
+        const layer = trackLayers[track.id];
+        if (!layer) return;
+
+        if (filtered.includes(track)) {
+            if (!map.hasLayer(layer)) {
+                layer.addTo(map);
+            }
+        } else {
+            // Track ausblenden
+            if (map.hasLayer(layer)) {
+                map.removeLayer(layer);
+            }
+        }
+    })
+}
+
+// TODO GRK: remove?
+function loadTrack(track) {
+    if(trackLayers[track.file]){
+        map.addLayer(trackLayers[track.file]);
+        map.fitBounds(trackLayers[track.file].getBounds());
+        return;
+    }
+    trackLayers[track.file] = new L.GPX(track.file, {async: true}).on('loaded', e => {
+        map.fitBounds(e.target.getBounds());
+    }).addTo(map);
+}
+
+// Icons definieren
+const startIcon = new L.Icon({
+    iconUrl: 'icons/pin-icon-start.svg',
+    iconSize: [24, 24],
+    iconAnchor: [12, 24],
+    shadowUrl: null
+});
+
+const endIcon = new L.Icon({
+    iconUrl: 'icons/pin-icon-end.svg',
+    iconSize: [24, 24],
+    iconAnchor: [12, 24],
+    shadowUrl: null
+});
+
+const wptIcon = new L.Icon({
+    iconUrl: 'icons/pin-icon-wpt.svg',
+    iconSize: [20, 20],
+    iconAnchor: [10, 20],
+    shadowUrl: null
+});
+
+// TODO GRK: not working yet...
+const wptIcons = {
+    'default': new L.Icon({ iconUrl: 'icons/pin-icon-wpt.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Berghütte': new L.Icon({ iconUrl: 'huette.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Bergbahn Bergstation': new L.Icon({ iconUrl: 'bergstation.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Bergbahn Talstation': new L.Icon({ iconUrl: 'talstation.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Gasthof': new L.Icon({ iconUrl: 'gasthof.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Spielplatz': new L.Icon({ iconUrl: 'spielplatz.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Alpe': new L.Icon({ iconUrl: 'alpe.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Berufsschule': new L.Icon({ iconUrl: 'berufsschule.svg', iconSize: [20, 20], iconAnchor: [10, 20] })
+}
+
+function getWaypointIcon(wpt) {
+    console.log("Waypoint type:", wpt.type, "sym:", wpt.sym, "name:", wpt.name);
+    const typeKey = wpt.type || wpt.sym || "";
+    return icons[typeKey] || icons["default"];
+}
+
+fetch('data/tracks.json')
+    .then(res => res.json())
+    .then(data => {
+        tracks = data;
+
+        tracks.forEach(track => {
+            const color = track.done ? 'green' : 'red';
+
+            const gpxLayer = new L.GPX(track.file, {
+                async: true,
+                marker_options: {
+                    startIcon: startIcon,
+                    endIcon: endIcon,
+                    shadowUrl: null,
+                    wptIconUrls: { '' : wptIcon },
+                    wptIcons: { '' : wptIcons['default'] },
+                },
+                polyline_options: {
+                    color: color,
+                    weight: 4,
+                    opacity: 0.75
+                }
+            });
+
+            trackLayers[track.id] = gpxLayer;
+
+            gpxLayer.on('loaded', function(e) {
+                const gpx = e.target;
+                gpx.bindPopup(`
+                  <b>${track.title}</b><br/>
+                  <a href="${track.link}" target="_blank">Details</a><br/>
+                  ${track.done ? '✅ Gewandert am ' + track.date : '🚶 Noch nicht gewandert'}
+                `);
+            });
+
+            gpxLayer.addTo(map);
+        });
+
+        filterDone.onchange = function () {
+            // console.log("filter done changed");
+            filterTracks(tracks);
+        }
+        filterDifficulty.onchange = function () {
+            filterTracks(tracks);
+        }
+        // initial
+        filterTracks(tracks);
+    })
+    .catch(err => console.error('Fehler beim Laden der tracks.json:', err));

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8" />
+    <title>Wanderkarte – Urner Alpenkranz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="libs/leaflet.css" />
+    <!-- Eigene CSS-Datei -->
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="container">
+    <div id="sidebar">
+        <div class="filters">
+            <label>
+                Wanderstatus:
+                <select id="filter-done">
+                    <option value="all">Alle</option>
+                    <option value="done">Gewandert</option>
+                    <option value="notdone">Noch nicht</option>
+                </select>
+            </label>
+
+            <label>
+                Schwierigkeit:
+                <select id="filter-difficulty">
+                    <option value="all">Alle</option>
+                    <option value="T2">T2</option>
+                    <option value="T3">T3</option>
+                    <option value="T4">T4</option>
+                </select>
+            </label>
+        </div>
+        <div id="track-list">
+            <!-- Liste wird dynamisch befüllt -->
+        </div>
+    </div>
+    <div id="map"></div>
+<!--<div class="coords" id="coords">Klicke auf die Karte</div>-->
+</div>
+
+<!-- Leaflet JS -->
+<script src="libs/leaflet.js"></script>
+<!-- GPX Plugin -->
+<script src="libs/gpx.min.js"></script>
+
+<!-- Eigene JS-Datei -->
+<script src="app.js"></script>
+
+</body>
+</html>

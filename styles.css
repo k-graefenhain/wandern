@@ -1,0 +1,53 @@
+body, html {
+    margin: 0; padding: 0; height: 100%;
+    font-family: Arial, sans-serif;
+}
+#container {
+    display: flex; height: 100vh;
+}
+#sidebar {
+    width: 30%;
+    min-width: 320px;
+    max-width: 500px;
+    border-right: 1px solid #ccc;
+    overflow-y: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+#map {
+    flex-grow: 1;
+    height: 100%;
+}
+.coords {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: rgba(255,255,255,0.8);
+    padding: 5px 10px;
+    font-family: monospace;
+    font-size: 14px;
+    border-radius: 4px;
+}
+.track-item {
+    padding: 6px 4px;
+    border-bottom: 1px solid #eee;
+}
+.track-item a {
+    margin-left: 8px;
+    text-decoration: none;
+    color: #007bff;
+    cursor: pointer;
+}
+.track-item a:hover {
+    text-decoration: underline;
+}
+.filters {
+    margin-bottom: 12px;
+}
+.filters label {
+    margin-right: 20px;
+    font-size: 14px;
+}
+input[type="date"] {
+    margin-left: 8px;
+}
