@@ -43,7 +43,7 @@ const filterDone = document.getElementById('filter-done');
 const filterDifficulty = document.getElementById('filter-difficulty');
 const listDiv = document.getElementById('track-list');
 
-function renderTrackList(trackArray) {
+async function renderTrackList(trackArray) {
     listDiv.innerHTML = '';
     trackArray.forEach(track => {
         const div = document.createElement('div');
@@ -52,16 +52,17 @@ function renderTrackList(trackArray) {
         const cb = document.createElement('input');
         cb.type = 'checkbox';
         cb.checked = track.done;
-        cb.onchange = () => {
-            track.done = cb.checked;
+        cb.addEventListener('change', async () => {
+            const done = cb.checked;
+            track.done = done;
             // filterTracks(tracks);
             console.log(`Track "${track.title}" gewandert: ${track.done}`);
-            if (track.done) {
-                div.appendChild(dateInput);
-            } else {
-                div.removeChild(dateInput);
-            }
-        };
+            dateInput.hidden = !done;
+            const date = done ? new Date().toISOString().slice(0, 10) : null;
+            dateInput.value = date || '';
+
+            await updateTrack(track.id, done, date);
+        });
 
         const title = document.createElement('a');
         title.href = track.link;
@@ -75,18 +76,26 @@ function renderTrackList(trackArray) {
         const dateInput = document.createElement('input');
         dateInput.type = 'date';
         dateInput.value = track.date || '';
-        dateInput.onchange = () => {
-            track.date = dateInput.value;
+        dateInput.hidden = !track.done;
+        dateInput.addEventListener('change', async() => {
+            // track.date = dateInput.value;
             console.log(`Datum für "${track.title}" gesetzt auf ${track.date}`);
-        };
+            await updateTrack(track.id, cb.checked, dateInput.value);
+        });
 
         div.appendChild(cb);
         div.appendChild(title);
-        if (track.done) {
-            div.appendChild(dateInput);
-        }
+        div.appendChild(dateInput);
 
         listDiv.appendChild(div);
+    });
+}
+
+async function updateTrack(id, done, date) {
+    await fetch('/api/tracks/update', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({ id, done, date })
     });
 }
 
@@ -136,21 +145,21 @@ function loadTrack(track) {
 
 // Icons definieren
 const startIcon = new L.Icon({
-    iconUrl: 'icons/pin-icon-start.svg',
+    iconUrl: '../icons/pin-icon-start.svg',
     iconSize: [24, 24],
     iconAnchor: [12, 24],
     shadowUrl: null
 });
 
 const endIcon = new L.Icon({
-    iconUrl: 'icons/pin-icon-end.svg',
+    iconUrl: '../icons/pin-icon-end.svg',
     iconSize: [24, 24],
     iconAnchor: [12, 24],
     shadowUrl: null
 });
 
 const wptIcon = new L.Icon({
-    iconUrl: 'icons/pin-icon-wpt.svg',
+    iconUrl: '../icons/pin-icon-wpt.svg',
     iconSize: [20, 20],
     iconAnchor: [10, 20],
     shadowUrl: null
@@ -158,14 +167,14 @@ const wptIcon = new L.Icon({
 
 // TODO GRK: not working yet...
 const wptIcons = {
-    'default': new L.Icon({ iconUrl: 'icons/pin-icon-wpt.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
-    'Berghütte': new L.Icon({ iconUrl: 'huette.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
-    'Bergbahn Bergstation': new L.Icon({ iconUrl: 'bergstation.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
-    'Bergbahn Talstation': new L.Icon({ iconUrl: 'talstation.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
-    'Gasthof': new L.Icon({ iconUrl: 'gasthof.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
-    'Spielplatz': new L.Icon({ iconUrl: 'spielplatz.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
-    'Alpe': new L.Icon({ iconUrl: 'alpe.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
-    'Berufsschule': new L.Icon({ iconUrl: 'berufsschule.svg', iconSize: [20, 20], iconAnchor: [10, 20] })
+    'default': new L.Icon({ iconUrl: '../icons/pin-icon-wpt.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Berghütte': new L.Icon({ iconUrl: '../icons/huette.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Bergbahn Bergstation': new L.Icon({ iconUrl: '../icons/bergstation.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Bergbahn Talstation': new L.Icon({ iconUrl: '../icons/talstation.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Gasthof': new L.Icon({ iconUrl: '../icons/gasthof.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Spielplatz': new L.Icon({ iconUrl: '../icons/spielplatz.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Alpe': new L.Icon({ iconUrl: '../icons/alpe.svg', iconSize: [20, 20], iconAnchor: [10, 20] }),
+    'Berufsschule': new L.Icon({ iconUrl: '../icons/berufsschule.svg', iconSize: [20, 20], iconAnchor: [10, 20] })
 }
 
 function getWaypointIcon(wpt) {
@@ -179,7 +188,7 @@ function formatDistance(meters) {
     return (Math.round(km * 10) / 10) + ' km';  // auf 1 Nachkommastelle runden und "km" anhängen
 }
 
-fetch('data/tracks.json')
+fetch('api/tracks')
     .then(res => res.json())
     .then(data => {
         tracks = data;
